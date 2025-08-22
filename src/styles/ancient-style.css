@@ -1,0 +1,459 @@
+/* 问道古风样式 - 中国古典元素设计 */
+
+/* 全局样式重置 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 主体样式 - 古典卷轴感 */
+.wendao-app {
+    max-width: 468px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+    /* 卷轴边框效果 */
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.9) 0%, 
+        rgba(160, 132, 92, 0.95) 25%, 
+        rgba(245, 222, 179, 0.98) 50%, 
+        rgba(160, 132, 92, 0.95) 75%, 
+        rgba(139, 115, 85, 0.9) 100%
+    );
+    border: 3px solid #D4AF37;
+    border-radius: 20px;
+    padding: 8px;
+    box-shadow: 
+        0 0 20px rgba(212, 175, 55, 0.3),
+        inset 0 0 20px rgba(255, 255, 255, 0.1),
+        0 10px 30px rgba(0, 0, 0, 0.5);
+    /* 古纸纹理 */
+    background-image: 
+        radial-gradient(circle at 25% 25%, rgba(139, 115, 85, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at 75% 75%, rgba(160, 132, 92, 0.1) 0%, transparent 50%);
+}
+
+/* 游戏标题 - 古典书法风格 */
+.game-title {
+    text-align: center;
+    color: #8B4513;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'STXingkai', 'KaiTi', 'STFangsong', serif;
+    text-shadow: 
+        2px 2px 0px #D4AF37,
+        4px 4px 8px rgba(139, 69, 19, 0.5);
+    letter-spacing: 2px;
+    /* 金箔效果 */
+    background: linear-gradient(135deg, #D4AF37 0%, #FFD700 50%, #B8860B 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    position: relative;
+}
+
+.game-title::before {
+    content: '◆';
+    position: absolute;
+    left: -25px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #D4AF37;
+    font-size: 16px;
+}
+
+.game-title::after {
+    content: '◆';
+    position: absolute;
+    right: -25px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #D4AF37;
+    font-size: 16px;
+}
+
+/* 顶部导航栏 - 古典横轴风格 */
+.top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    padding: 10px 15px;
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.95) 0%, 
+        rgba(245, 222, 179, 0.9) 50%, 
+        rgba(139, 115, 85, 0.95) 100%
+    );
+    border: 2px solid #D4AF37;
+    border-radius: 15px;
+    position: relative;
+    color: #8B4513;
+    box-shadow: 
+        0 4px 12px rgba(139, 69, 19, 0.3),
+        inset 0 2px 4px rgba(255, 255, 255, 0.2);
+}
+
+/* 古典装饰边角 */
+.top-bar::before {
+    content: '┌─────────────────────┐';
+    position: absolute;
+    top: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 8px;
+    color: #D4AF37;
+    white-space: nowrap;
+}
+
+.top-bar::after {
+    content: '└─────────────────────┘';
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 8px;
+    color: #D4AF37;
+    white-space: nowrap;
+}
+
+/* Tab导航 - 古典简牍风格 */
+.tab-nav {
+    display: flex;
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.8) 0%, 
+        rgba(160, 132, 92, 0.9) 50%, 
+        rgba(139, 115, 85, 0.8) 100%
+    );
+    border: 2px solid #D4AF37;
+    border-radius: 12px;
+    padding: 3px;
+    margin-bottom: 12px;
+    box-shadow: 0 4px 8px rgba(139, 69, 19, 0.2);
+}
+
+.tab-btn {
+    flex: 1;
+    background: none;
+    border: none;
+    color: #8B4513;
+    padding: 8px 4px;
+    font-size: 10px;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-weight: 600;
+    font-family: 'KaiTi', 'STFangsong', serif;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    position: relative;
+}
+
+.tab-btn:hover {
+    background: linear-gradient(135deg, 
+        rgba(212, 175, 55, 0.2) 0%, 
+        rgba(255, 215, 0, 0.3) 50%, 
+        rgba(212, 175, 55, 0.2) 100%
+    );
+    color: #D4AF37;
+    text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);
+}
+
+.tab-btn.active {
+    background: linear-gradient(135deg, 
+        #D4AF37 0%, 
+        #FFD700 50%, 
+        #B8860B 100%
+    );
+    color: #8B4513;
+    font-weight: bold;
+    box-shadow: 
+        0 2px 8px rgba(212, 175, 55, 0.4),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+    text-shadow: 1px 1px 2px rgba(139, 69, 19, 0.3);
+}
+
+/* 主内容区域 - 古典书页效果 */
+.main-content {
+    background: linear-gradient(135deg, 
+        rgba(245, 222, 179, 0.95) 0%, 
+        rgba(255, 248, 220, 0.98) 50%, 
+        rgba(245, 222, 179, 0.95) 100%
+    );
+    border: 2px solid #D4AF37;
+    border-radius: 15px;
+    padding: 12px;
+    margin-bottom: 10px;
+    position: relative;
+    box-shadow: 
+        0 6px 16px rgba(139, 69, 19, 0.25),
+        inset 0 2px 4px rgba(255, 255, 255, 0.4);
+    /* 古纸效果 */
+    background-image: 
+        repeating-linear-gradient(0deg, transparent, transparent 20px, rgba(139, 115, 85, 0.05) 20px, rgba(139, 115, 85, 0.05) 21px),
+        radial-gradient(circle at 10% 10%, rgba(139, 69, 19, 0.05) 0%, transparent 50%);
+}
+
+.main-content::before {
+    content: '❋';
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    color: #D4AF37;
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+.main-content::after {
+    content: '❋';
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    color: #D4AF37;
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+/* 操作容器 - 古典方框风格 */
+.operation-container {
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.1) 0%, 
+        rgba(160, 132, 92, 0.2) 50%, 
+        rgba(139, 115, 85, 0.1) 100%
+    );
+    border: 2px solid #D4AF37;
+    border-radius: 10px;
+    padding: 12px;
+    margin-bottom: 12px;
+    box-shadow: inset 0 2px 4px rgba(139, 69, 19, 0.1);
+}
+
+/* 按钮样式 - 古典印章效果 */
+.btn {
+    border: 2px solid #D4AF37;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 11px;
+    font-weight: bold;
+    font-family: 'KaiTi', 'STFangsong', serif;
+    transition: all 0.3s ease;
+    padding: 8px 12px;
+    position: relative;
+    overflow: hidden;
+}
+
+.btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.btn:hover::before {
+    left: 100%;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, 
+        #D4AF37 0%, 
+        #FFD700 30%, 
+        #FFA500 70%, 
+        #B8860B 100%
+    );
+    color: #8B4513;
+    box-shadow: 
+        0 4px 8px rgba(212, 175, 55, 0.3),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+.btn-primary:hover {
+    background: linear-gradient(135deg, 
+        #FFD700 0%, 
+        #FFA500 30%, 
+        #FF8C00 70%, 
+        #DAA520 100%
+    );
+    transform: translateY(-2px);
+    box-shadow: 
+        0 6px 12px rgba(212, 175, 55, 0.4),
+        inset 0 2px 4px rgba(255, 255, 255, 0.4);
+}
+
+.btn-secondary {
+    background: linear-gradient(135deg, 
+        #8D6E63 0%, 
+        #A0845C 50%, 
+        #6D4C41 100%
+    );
+    color: #F5DEB3;
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, 
+        #8B0000 0%, 
+        #DC143C 50%, 
+        #CD5C5C 100%
+    );
+    color: #FFF;
+}
+
+/* 模态框样式 - 古典卷轴效果 */
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.8) 0%, rgba(43, 24, 16, 0.9) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    padding: 20px;
+}
+
+.modal-content {
+    background: linear-gradient(135deg, 
+        rgba(160, 132, 92, 0.98) 0%, 
+        rgba(245, 222, 179, 0.99) 50%, 
+        rgba(160, 132, 92, 0.98) 100%
+    );
+    border: 3px solid #D4AF37;
+    border-radius: 15px;
+    padding: 20px;
+    max-width: 400px;
+    width: 100%;
+    max-height: 80vh;
+    overflow-y: auto;
+    position: relative;
+    box-shadow: 
+        0 15px 35px rgba(0, 0, 0, 0.6),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+    /* 古纸纹理 */
+    background-image: 
+        radial-gradient(circle at 25% 25%, rgba(139, 69, 19, 0.05) 0%, transparent 50%),
+        radial-gradient(circle at 75% 75%, rgba(160, 132, 92, 0.1) 0%, transparent 50%);
+}
+
+/* 首饰槽位 - 古典玉器风格 */
+.synthesis-slot, .recast-slot {
+    background: radial-gradient(ellipse at center, 
+        rgba(245, 222, 179, 0.9) 0%, 
+        rgba(160, 132, 92, 0.8) 70%, 
+        rgba(139, 115, 85, 0.9) 100%
+    );
+    border: 3px solid #D4AF37;
+    border-radius: 50%;
+    box-shadow: 
+        0 4px 12px rgba(139, 69, 19, 0.3),
+        inset 0 2px 6px rgba(255, 255, 255, 0.2),
+        inset 0 -2px 6px rgba(139, 69, 19, 0.2);
+    position: relative;
+}
+
+.synthesis-slot::before, .recast-slot::before {
+    content: '◉';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgba(212, 175, 55, 0.3);
+    font-size: 24px;
+    pointer-events: none;
+}
+
+/* Toast消息 - 古典告示风格 */
+.toast {
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.95) 0%, 
+        rgba(245, 222, 179, 0.98) 50%, 
+        rgba(139, 115, 85, 0.95) 100%
+    );
+    border: 2px solid #D4AF37;
+    border-radius: 12px;
+    color: #8B4513;
+    font-family: 'KaiTi', 'STFangsong', serif;
+    box-shadow: 
+        0 8px 20px rgba(139, 69, 19, 0.4),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+.toast.success {
+    border-color: #90EE90;
+    box-shadow: 
+        0 8px 20px rgba(144, 238, 144, 0.3),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+.toast.error {
+    border-color: #FF6B6B;
+    box-shadow: 
+        0 8px 20px rgba(255, 107, 107, 0.3),
+        inset 0 2px 4px rgba(255, 255, 255, 0.3);
+}
+
+/* 日志面板 - 古典竹简效果 */
+.log-panel {
+    background: linear-gradient(135deg, 
+        rgba(139, 115, 85, 0.4) 0%, 
+        rgba(160, 132, 92, 0.3) 50%, 
+        rgba(139, 115, 85, 0.4) 100%
+    );
+    border: 2px solid #A0845C;
+    border-radius: 10px;
+    font-family: 'KaiTi', 'STFangsong', serif;
+    color: #8B4513;
+    box-shadow: inset 0 2px 8px rgba(139, 69, 19, 0.2);
+}
+
+.log-entry {
+    border-left: 3px solid #D4AF37;
+    padding-left: 6px;
+    font-size: 10px;
+}
+
+/* 响应式设计 - 保持古典风格 */
+@media (max-width: 480px) {
+    .wendao-app {
+        border-radius: 15px;
+        padding: 6px;
+    }
+    
+    .game-title {
+        font-size: 16px;
+        letter-spacing: 1px;
+    }
+    
+    .tab-btn {
+        font-size: 8px;
+        padding: 6px 2px;
+    }
+    
+    .main-content {
+        padding: 8px;
+        border-radius: 12px;
+    }
+}
+
+/* 特殊装饰元素 */
+.ancient-decoration {
+    color: #D4AF37;
+    opacity: 0.6;
+    font-size: 12px;
+    text-align: center;
+    margin: 5px 0;
+}
+
+.ancient-decoration::before {
+    content: '◈ ';
+}
+
+.ancient-decoration::after {
+    content: ' ◈';
+}

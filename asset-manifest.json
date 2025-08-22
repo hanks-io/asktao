@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/asktao/static/css/main.ddaafb68.css",
+    "main.js": "/asktao/static/js/main.e3df8f83.js",
+    "static/js/453.9ca3174d.chunk.js": "/asktao/static/js/453.9ca3174d.chunk.js",
+    "index.html": "/asktao/index.html",
+    "main.ddaafb68.css.map": "/asktao/static/css/main.ddaafb68.css.map",
+    "main.e3df8f83.js.map": "/asktao/static/js/main.e3df8f83.js.map",
+    "453.9ca3174d.chunk.js.map": "/asktao/static/js/453.9ca3174d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddaafb68.css",
+    "static/js/main.e3df8f83.js"
+  ]
+}

@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f71f683.css",
-    "main.js": "/static/js/main.ced24ddf.js",
-    "static/js/453.9ca3174d.chunk.js": "/static/js/453.9ca3174d.chunk.js",
-    "static/media/wendao-jewelry-sprite.svg": "/static/media/wendao-jewelry-sprite.348fe0c0d8e72d8f2981.svg",
-    "index.html": "/index.html",
-    "main.4f71f683.css.map": "/static/css/main.4f71f683.css.map",
-    "main.ced24ddf.js.map": "/static/js/main.ced24ddf.js.map",
-    "453.9ca3174d.chunk.js.map": "/static/js/453.9ca3174d.chunk.js.map"
+    "main.css": "/asktao/static/css/main.bd26f041.css",
+    "main.js": "/asktao/static/js/main.0184214e.js",
+    "static/js/453.9ca3174d.chunk.js": "/asktao/static/js/453.9ca3174d.chunk.js",
+    "static/media/wendao-jewelry-sprite.svg": "/asktao/static/media/wendao-jewelry-sprite.348fe0c0d8e72d8f2981.svg",
+    "index.html": "/asktao/index.html",
+    "main.bd26f041.css.map": "/asktao/static/css/main.bd26f041.css.map",
+    "main.0184214e.js.map": "/asktao/static/js/main.0184214e.js.map",
+    "453.9ca3174d.chunk.js.map": "/asktao/static/js/453.9ca3174d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f71f683.css",
-    "static/js/main.ced24ddf.js"
+    "static/css/main.bd26f041.css",
+    "static/js/main.0184214e.js"
   ]
 }

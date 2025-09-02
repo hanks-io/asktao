@@ -1,0 +1,2835 @@
+<svg width="744" height="268" viewBox="0 0 744 268" xmlns="http://www.w3.org/2000/svg">
+  <g id="bracelet_100">
+    <!-- 64x64 区域，从 (0, 0) 开始 -->
+    <g transform="translate(0, 0)" clip-path="url(#clip0_0)">
+      <clipPath id="clip0_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#4B0082" stroke-width="1" opacity="0.6"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#9370DB" stroke-width="2" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="-18" r="3" fill="#4ADE80" opacity="1"/>
+    <circle cx="0" cy="-18" r="2" fill="#FFFFFF" opacity="0.8"/>
+    
+    
+    
+        <circle cx="9.000000000000002" cy="-15.588457268119894" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="9.000000000000002" cy="-15.588457268119894" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="15.588457268119896" cy="-8.999999999999998" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="15.588457268119896" cy="-8.999999999999998" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="18" cy="0" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="18" cy="0" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="15.588457268119896" cy="8.999999999999998" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="15.588457268119896" cy="8.999999999999998" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="9.000000000000002" cy="15.588457268119894" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="9.000000000000002" cy="15.588457268119894" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="1.102182119232618e-15" cy="18" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="1.102182119232618e-15" cy="18" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+        <circle cx="-8.999999999999996" cy="15.588457268119896" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-8.999999999999996" cy="15.588457268119896" r="1.3" fill="#F0F8FF" opacity="0.8"/>
+      
+    
+    
+    
+        <circle cx="-15.588457268119896" cy="8.999999999999998" r="1.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-15.588457268119896" cy="8.999999999999998" r="1" fill="#FFE4E1" opacity="0.7"/>
+      
+        <circle cx="-18" cy="2.204364238465236e-15" r="1.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-18" cy="2.204364238465236e-15" r="1" fill="#FFE4E1" opacity="0.7"/>
+      
+        <circle cx="-15.588457268119894" cy="-9.000000000000002" r="1.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-15.588457268119894" cy="-9.000000000000002" r="1" fill="#FFE4E1" opacity="0.7"/>
+      
+        <circle cx="-9.000000000000007" cy="-15.588457268119893" r="1.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-9.000000000000007" cy="-15.588457268119893" r="1" fill="#FFE4E1" opacity="0.7"/>
+      
+    
+    
+    <circle cx="1.128261707305272e-15" cy="-18.425911995047255" r="0.8753116756287702" fill="#4ADE80" opacity="0.7"/><circle cx="10.112213849367345" cy="-17.51486816410589" r="0.9173579109784465" fill="#4ADE80" opacity="0.7"/><circle cx="16.59152897445969" cy="-9.579123719671774" r="1.4582556986291337" fill="#4ADE80" opacity="0.7"/><circle cx="20.945682491313264" cy="0" r="1.2297395372976967" fill="#4ADE80" opacity="0.7"/><circle cx="14.95272119384237" cy="8.632957606382313" r="1.557917223733181" fill="#4ADE80" opacity="0.7"/><circle cx="9.32987489273651" cy="16.159817342480864" r="1.1848730167466184" fill="#4ADE80" opacity="0.7"/><circle cx="9.364849602936285e-16" cy="15.293960037222908" r="0.8988246352376507" fill="#4ADE80" opacity="0.7"/><circle cx="-8.210700340132817" cy="14.22135015483311" r="1.469133849869348" fill="#4ADE80" opacity="0.7"/><circle cx="-14.16550215523709" cy="8.178456482532356" r="1.3876568153366242" fill="#4ADE80" opacity="0.7"/><circle cx="-18.033420336948033" cy="2.208457049332219e-15" r="0.9378744190549703" fill="#4ADE80" opacity="0.7"/><circle cx="-17.643687818268923" cy="-10.186587911375286" r="1.486794860139503" fill="#4ADE80" opacity="0.7"/><circle cx="-7.789831691750092" cy="-13.492384272521367" r="1.0719399051631" fill="#4ADE80" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#E6E6FA" stroke-width="0.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#DDA0DD" stroke-width="0.3" opacity="0.3"/>
+    
+    
+    <path d="M-6,0 Q0,-4 6,0 Q0,4 -6,0" fill="#9370DB" opacity="0.6"/>
+    <circle cx="0" cy="0" r="2" fill="#4ADE80" opacity="0.8"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#4B0082" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">100</text>
+
+    </g>
+  </g>
+  <g id="bracelet_110">
+    <!-- 64x64 区域，从 (68, 0) 开始 -->
+    <g transform="translate(68, 0)" clip-path="url(#clip68_0)">
+      <clipPath id="clip68_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="20.5" 
+            fill="none" 
+            stroke="#FF6347" 
+            stroke-width="2" 
+            opacity="0.8"/>
+    <circle cx="0" cy="0" r="17.5" 
+            fill="none" 
+            stroke="#7FFFD4" 
+            stroke-width="3" 
+            opacity="0.7"/>
+    
+    
+    
+        <circle cx="17.5" cy="0" r="2.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="17.5" cy="0" r="1.5" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+    
+    
+    <g opacity="0.8">
+      
+      <path d="M-8,0 Q-5,-5 0,-3 Q5,-5 8,0 Q5,5 0,3 Q-5,5 -8,0" 
+            fill="#DA70D6" 
+            opacity="0.7"/>
+      
+      
+      <circle cx="-3" cy="-1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="3" cy="1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="0" cy="0" r="1.2" fill="#DEB887" opacity="0.8"/>
+    </g>
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#FF6347" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">110</text>
+        
+  
+  <circle cx="0.8438690158592905" cy="23.14315566306673" r="0.7586635975818918" fill="#DEB887" opacity="0.5"/><circle cx="44.700932518790665" cy="8.67974214591694" r="0.7152132310084267" fill="#DEB887" opacity="0.5"/><circle cx="10.660343413256172" cy="0.7602698068611744" r="0.8677050386514249" fill="#DEB887" opacity="0.5"/><circle cx="21.8142264160753" cy="6.459841795189924" r="0.9908301618002293" fill="#DEB887" opacity="0.5"/><circle cx="31.110761711383503" cy="2.610685721982829" r="0.4818820773926162" fill="#DEB887" opacity="0.5"/><circle cx="17.464275389674782" cy="-0.7978955670688634" r="0.8793633162774077" fill="#DEB887" opacity="0.5"/><circle cx="64.07777521842323" cy="32.282969902963636" r="0.9826384197880238" fill="#DEB887" opacity="0.5"/><circle cx="38.54491753202369" cy="7.104273746984614" r="1.0969092584500115" fill="#DEB887" opacity="0.5"/><circle cx="71.19181153219408" cy="27.551933402710915" r="0.9932879270041701" fill="#DEB887" opacity="0.5"/>
+  
+
+    </g>
+  </g>
+  <g id="bracelet_120">
+    <!-- 64x64 区域，从 (136, 0) 开始 -->
+    <g transform="translate(136, 0)" clip-path="url(#clip136_0)">
+      <clipPath id="clip136_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="20.5" 
+            fill="none" 
+            stroke="#FF6347" 
+            stroke-width="2" 
+            opacity="0.8"/>
+    <circle cx="0" cy="0" r="17.5" 
+            fill="none" 
+            stroke="#7FFFD4" 
+            stroke-width="3" 
+            opacity="0.7"/>
+    
+    
+    
+        <circle cx="17.5" cy="0" r="2.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="17.5" cy="0" r="1.5" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+    
+    
+    <g opacity="0.8">
+      
+      <path d="M-8,0 Q-5,-5 0,-3 Q5,-5 8,0 Q5,5 0,3 Q-5,5 -8,0" 
+            fill="#DA70D6" 
+            opacity="0.7"/>
+      
+      
+      <circle cx="-3" cy="-1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="3" cy="1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="0" cy="0" r="1.2" fill="#DEB887" opacity="0.8"/>
+    </g>
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#FF6347" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">120</text>
+        
+  
+  <circle cx="60.95847693014626" cy="14.185736281235886" r="1.0270491215249409" fill="#DEB887" opacity="0.5"/><circle cx="15.902594918215144" cy="3.627636393390709" r="0.501670590226756" fill="#DEB887" opacity="0.5"/><circle cx="23.584905888792413" cy="69.52005276128727" r="1.0483411081372809" fill="#DEB887" opacity="0.5"/><circle cx="5.852788645887561" cy="31.390562135769994" r="0.42795770007991923" fill="#DEB887" opacity="0.5"/><circle cx="62.27804706253262" cy="22.70892601550118" r="0.6762845018576296" fill="#DEB887" opacity="0.5"/><circle cx="59.13725678614609" cy="39.94200918855741" r="0.4022270309866287" fill="#DEB887" opacity="0.5"/><circle cx="28.072557556995093" cy="-5.991893840943398" r="0.9518179455631408" fill="#DEB887" opacity="0.5"/><circle cx="19.073923605316686" cy="6.955370163875653" r="0.47869736102512384" fill="#DEB887" opacity="0.5"/><circle cx="12.83818737201242" cy="13.148415263629051" r="0.7427565448201789" fill="#DEB887" opacity="0.5"/>
+  
+
+    </g>
+  </g>
+  <g id="bracelet_130">
+    <!-- 64x64 区域，从 (204, 0) 开始 -->
+    <g transform="translate(204, 0)" clip-path="url(#clip204_0)">
+      <clipPath id="clip204_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="20.5" 
+            fill="none" 
+            stroke="#FF6347" 
+            stroke-width="2" 
+            opacity="0.8"/>
+    <circle cx="0" cy="0" r="17.5" 
+            fill="none" 
+            stroke="#7FFFD4" 
+            stroke-width="3" 
+            opacity="0.7"/>
+    
+    
+    
+        <circle cx="17.5" cy="0" r="2.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="17.5" cy="0" r="1.5" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="0.8999999999999999" 
+                fill="#DEB887" 
+                opacity="0.7"/>
+      
+    
+    
+    <g opacity="0.8">
+      
+      <path d="M-8,0 Q-5,-5 0,-3 Q5,-5 8,0 Q5,5 0,3 Q-5,5 -8,0" 
+            fill="#DA70D6" 
+            opacity="0.7"/>
+      
+      
+      <circle cx="-3" cy="-1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="3" cy="1" r="0.8" fill="#F0E68C" opacity="0.6"/>
+      <circle cx="0" cy="0" r="1.2" fill="#DEB887" opacity="0.8"/>
+    </g>
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#FF6347" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">130</text>
+        
+  
+  <circle cx="1.2239473593150691" cy="24.878034624044375" r="0.8723412804551414" fill="#DEB887" opacity="0.5"/><circle cx="35.76023799972754" cy="-4.333027433156694" r="0.40376836126314036" fill="#DEB887" opacity="0.5"/><circle cx="19.17909241780137" cy="0.8574627308317417" r="0.3303078821745933" fill="#DEB887" opacity="0.5"/><circle cx="36.0409416642827" cy="69.49517332471484" r="0.3451007773084533" fill="#DEB887" opacity="0.5"/><circle cx="12.105504655057015" cy="8.060561044735344" r="0.6849863708435893" fill="#DEB887" opacity="0.5"/><circle cx="-2.5400203287437364" cy="15.560096686902227" r="0.5586733948234806" fill="#DEB887" opacity="0.5"/><circle cx="-4.848129346349012" cy="35.45588840388279" r="0.5025689065768797" fill="#DEB887" opacity="0.5"/><circle cx="55.187427531525024" cy="45.198852417428306" r="0.6664067733947463" fill="#DEB887" opacity="0.5"/><circle cx="50.31910504085542" cy="53.46863080222509" r="0.3026953775768253" fill="#DEB887" opacity="0.5"/>
+  
+
+    </g>
+  </g>
+  <g id="bracelet_140">
+    <!-- 64x64 区域，从 (272, 0) 开始 -->
+    <g transform="translate(272, 0)" clip-path="url(#clip272_0)">
+      <clipPath id="clip272_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#4ADE80" stroke-width="1" opacity="0.5"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.7"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#4ADE80" stroke-width="1.5" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="16" fill="#4ADE80" opacity="0.9"/>
+    <circle cx="0" cy="0" r="12" fill="#F0F8FF" opacity="0.7"/>
+    
+    
+    
+        <text x="14" y="1" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">金</text>
+      
+        <text x="12.789636406996411" y="6.694313003061202" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">木</text>
+      
+        <text x="9.367828489024015" y="11.40402755668352" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">水</text>
+      
+        <text x="4.326237921249264" y="14.31479122813215" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">火</text>
+      
+        <text x="-1.4633984857471467" y="14.923306535155827" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">土</text>
+      
+        <text x="-6.9999999999999964" y="13.124355652982143" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">风</text>
+      
+        <text x="-11.326237921249263" y="9.228993532094625" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">雷</text>
+      
+        <text x="-13.69406641027328" y="3.9107636714486302" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">山</text>
+      
+        <text x="-13.69406641027328" y="-1.9107636714486267" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">泽</text>
+      
+        <text x="-11.326237921249264" y="-7.228993532094622" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">天</text>
+      
+        <text x="-7.000000000000006" y="-11.124355652982139" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">地</text>
+      
+        <text x="-1.4633984857471471" y="-12.923306535155827" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">日</text>
+      
+        <text x="4.326237921249261" y="-12.314791228132151" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">月</text>
+      
+        <text x="9.36782848902401" y="-9.404027556683523" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">星</text>
+      
+        <text x="12.789636406996413" y="-4.694313003061202" text-anchor="middle" 
+              font-size="2" fill="#9370DB" opacity="0.8">辰</text>
+      
+    
+    
+    <circle cx="0" cy="0" r="8" fill="none" stroke="#FFFFFF" stroke-width="2"/>
+    <circle cx="0" cy="0" r="6" fill="#4ADE80" opacity="0.95"/>
+    
+    
+    <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
+    <text x="0" y="1" text-anchor="middle" font-size="3" fill="#9370DB">一</text>
+    
+    
+    <circle cx="0" cy="-10" r="1.5" fill="#87CEEB"/>  
+    <circle cx="10" cy="0" r="1.5" fill="#FF6347"/>   
+    <circle cx="0" cy="10" r="1.5" fill="#FF69B4"/>   
+    <circle cx="-10" cy="0" r="1.5" fill="#F0E68C"/>  
+    
+    
+    <path d="M8,0 A8,8 0 0,1 0,8 A8,8 0 0,1 -8,0 A8,8 0 0,1 0,-8 A8,8 0 0,1 8,0" 
+          fill="none" stroke="#DDA0DD" stroke-width="0.5" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#9370DB" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">140</text>
+
+    </g>
+  </g>
+  <g id="bracelet_150">
+    <!-- 64x64 区域，从 (340, 0) 开始 -->
+    <g transform="translate(340, 0)" clip-path="url(#clip340_0)">
+      <clipPath id="clip340_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="20.5" 
+            fill="none" 
+            stroke="#CD853F" 
+            stroke-width="2" 
+            opacity="0.8"/>
+    <circle cx="0" cy="0" r="17.5" 
+            fill="none" 
+            stroke="#AFEEEE" 
+            stroke-width="3" 
+            opacity="0.7"/>
+    
+    
+    
+        <circle cx="17.5" cy="0" r="2.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="17.5" cy="0" r="1.5" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582115" cy="11.248783169514438" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.038843109171282" cy="17.234135677713642" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.749999999999996" cy="15.155444566227677" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="5.985352508199205" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-16.444620863753396" cy="-5.985352508199202" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="-8.750000000000007" cy="-15.155444566227674" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="3.0388431091712746" cy="-17.234135677713642" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="1.5" 
+                fill="#4ADE80" 
+                opacity="0.9"/>
+        <circle cx="13.405777754582111" cy="-11.248783169514443" r="0.8999999999999999" 
+                fill="#F5DEB3" 
+                opacity="0.7"/>
+      
+    
+    
+    <g opacity="0.8">
+      
+      <path d="M-8,0 Q-5,-5 0,-3 Q5,-5 8,0 Q5,5 0,3 Q-5,5 -8,0" 
+            fill="#FF1493" 
+            opacity="0.7"/>
+      
+      
+      <circle cx="-3" cy="-1" r="0.8" fill="#FFFAF0" opacity="0.6"/>
+      <circle cx="3" cy="1" r="0.8" fill="#FFFAF0" opacity="0.6"/>
+      <circle cx="0" cy="0" r="1.2" fill="#F5DEB3" opacity="0.8"/>
+    </g>
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#CD853F" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">150</text>
+        
+  
+  <circle cx="0.002752767514973442" cy="31.730742171697106" r="0.3016791312697982" fill="#F5DEB3" opacity="0.5"/><circle cx="38.907543406550325" cy="66.41729329322655" r="0.499574627116255" fill="#F5DEB3" opacity="0.5"/><circle cx="30.893064120702004" cy="65.79933665009462" r="0.5902397676508191" fill="#F5DEB3" opacity="0.5"/><circle cx="15.877481605992966" cy="-0.032843111093427524" r="0.9824170880047423" fill="#F5DEB3" opacity="0.5"/><circle cx="69.44413871184813" cy="24.723057378116902" r="0.4613280459832076" fill="#F5DEB3" opacity="0.5"/><circle cx="37.209262526842906" cy="67.35384743260272" r="0.7883635585960873" fill="#F5DEB3" opacity="0.5"/><circle cx="21.61032886306385" cy="57.0038952610156" r="1.0906334454131155" fill="#F5DEB3" opacity="0.5"/><circle cx="41.542670419720764" cy="1.173105036503074" r="0.8085918495768882" fill="#F5DEB3" opacity="0.5"/><circle cx="21.70831960142832" cy="69.54548498242445" r="0.7413737454985998" fill="#F5DEB3" opacity="0.5"/>
+  
+
+    </g>
+  </g>
+  <g id="bracelet_20">
+    <!-- 64x64 区域，从 (408, 0) 开始 -->
+    <g transform="translate(408, 0)" clip-path="url(#clip408_0)">
+      <clipPath id="clip408_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="16" fill="#4ADE80" opacity="0.9" />
+    <circle cx="0" cy="0" r="12" fill="#DEB887" opacity="0.7"/>
+    
+    
+    <path d="M0,-10 L-2,-8 L2,-8 Z" fill="#8B4513"/>
+    <path d="M0,10 L-2,8 L2,8 Z" fill="#8B4513"/>
+    <path d="M-10,0 L-8,-2 L-8,2 Z" fill="#8B4513"/>
+    <path d="M10,0 L8,-2 L8,2 Z" fill="#8B4513"/>
+    
+    
+    <text x="0" y="1" text-anchor="middle" font-size="4" fill="#654321">卍</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B4513"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">20</text>
+
+    </g>
+  </g>
+  <g id="bracelet_35">
+    <!-- 64x64 区域，从 (476, 0) 开始 -->
+    <g transform="translate(476, 0)" clip-path="url(#clip476_0)">
+      <clipPath id="clip476_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#9370DB" stroke-width="2" opacity="0.8"/>
+    
+    
+    
+        <circle cx="9.797174393178826e-16" cy="-16" r="2.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="9.797174393178826e-16" cy="-16" r="1.5" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M-1.9999999999999991,-16 L2.000000000000001,-16 M9.797174393178826e-16,-18 L9.797174393178826e-16,-14" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="8.000000000000002" cy="-13.856406460551018" r="2.2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="8.000000000000002" cy="-13.856406460551018" r="1.32" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M6.240000000000002,-13.856406460551018 L9.760000000000002,-13.856406460551018 M8.000000000000002,-15.616406460551017 L8.000000000000002,-12.096406460551018" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="13.85640646055102" cy="-7.999999999999999" r="2" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="13.85640646055102" cy="-7.999999999999999" r="1.2" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M12.25640646055102,-7.999999999999999 L15.456406460551019,-7.999999999999999 M13.85640646055102,-9.6 L13.85640646055102,-6.399999999999999" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="16" cy="0" r="2.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="16" cy="0" r="1.68" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M13.76,0 L18.24,0 M16,-2.2399999999999998 L16,2.2399999999999998" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="13.85640646055102" cy="7.999999999999999" r="2.1" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="13.85640646055102" cy="7.999999999999999" r="1.26" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M12.17640646055102,7.999999999999999 L15.536406460551019,7.999999999999999 M13.85640646055102,6.3199999999999985 L13.85640646055102,9.68" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="8.000000000000002" cy="13.856406460551018" r="1.8" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="8.000000000000002" cy="13.856406460551018" r="1.08" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M6.560000000000001,13.856406460551018 L9.440000000000001,13.856406460551018 M8.000000000000002,12.416406460551018 L8.000000000000002,15.296406460551017" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+        <circle cx="9.797174393178826e-16" cy="16" r="2.3" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="9.797174393178826e-16" cy="16" r="1.38" fill="#FFFFFF" opacity="0.8"/>
+        
+        <path d="M-1.839999999999999,16 L1.8400000000000007,16 M9.797174393178826e-16,14.16 L9.797174393178826e-16,17.84" 
+              stroke="#E6E6FA" stroke-width="0.3" opacity="0.7"/>
+      
+    
+    
+    <path d="M0,-16 L13.86,-8 L13.86,8 L0,16 L-13.86,8 L-13.86,-8 L0,-16" 
+          stroke="#9370DB" stroke-width="0.5" fill="none" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#9370DB"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">35</text>
+
+    </g>
+  </g>
+  <g id="bracelet_50">
+    <!-- 64x64 区域，从 (544, 0) 开始 -->
+    <g transform="translate(544, 0)" clip-path="url(#clip544_0)">
+      <clipPath id="clip544_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="17" fill="#4ADE80" opacity="0.8" />
+    <circle cx="0" cy="0" r="13" fill="#FFE4E1" opacity="0.6"/>
+    
+    
+    <g transform="rotate(0)">
+      
+      <ellipse cx="0" cy="-12" rx="3" ry="4" fill="#4ADE80"/>
+      
+      
+      <path d="M-2,-15 L0,-18 L2,-15" stroke="#B22222" stroke-width="1" fill="none"/>
+      <circle cx="0" cy="-17" r="1" fill="#FF6347"/>
+      
+      
+      <ellipse cx="0" cy="-6" rx="4" ry="6" fill="#4ADE80" opacity="0.9"/>
+      
+      
+      <path d="M-4,-8 Q-12,-10 -15,-6 Q-12,-2 -4,-4" fill="#4ADE80" opacity="0.8"/>
+      <path d="M4,-8 Q12,-10 15,-6 Q12,-2 4,-4" fill="#4ADE80" opacity="0.8"/>
+      
+      
+      <path d="M0,0 Q-6,6 -4,12 Q0,8 4,12 Q6,6 0,0" fill="#4ADE80" opacity="0.7"/>
+      
+      
+      <path d="M-8,-8 Q-6,-6 -8,-4" stroke="#B22222" stroke-width="0.5" fill="none"/>
+      <path d="M8,-8 Q6,-6 8,-4" stroke="#B22222" stroke-width="0.5" fill="none"/>
+    </g>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#B22222"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">50</text>
+
+    </g>
+  </g>
+  <g id="bracelet_60">
+    <!-- 64x64 区域，从 (612, 0) 开始 -->
+    <g transform="translate(612, 0)" clip-path="url(#clip612_0)">
+      <clipPath id="clip612_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="18" fill="#4ADE80" opacity="0.9" />
+    <circle cx="0" cy="0" r="14" fill="#DAA520" opacity="0.7"/>
+    
+    
+    
+        <ellipse cx="16" cy="0" rx="2.5" ry="1.5" 
+                 transform="rotate(0 16 0)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="16" cy="0" rx="1.8" ry="1" 
+                 transform="rotate(0 16 0)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="15.454813220625093" cy="4.141104721640332" rx="2.5" ry="1.5" 
+                 transform="rotate(15 15.454813220625093 4.141104721640332)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="15.454813220625093" cy="4.141104721640332" rx="1.8" ry="1" 
+                 transform="rotate(15 15.454813220625093 4.141104721640332)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="13.85640646055102" cy="7.999999999999999" rx="2.5" ry="1.5" 
+                 transform="rotate(30 13.85640646055102 7.999999999999999)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="13.85640646055102" cy="7.999999999999999" rx="1.8" ry="1" 
+                 transform="rotate(30 13.85640646055102 7.999999999999999)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="11.313708498984761" cy="11.31370849898476" rx="2.5" ry="1.5" 
+                 transform="rotate(45 11.313708498984761 11.31370849898476)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="11.313708498984761" cy="11.31370849898476" rx="1.8" ry="1" 
+                 transform="rotate(45 11.313708498984761 11.31370849898476)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="8.000000000000002" cy="13.856406460551018" rx="2.5" ry="1.5" 
+                 transform="rotate(60 8.000000000000002 13.856406460551018)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="8.000000000000002" cy="13.856406460551018" rx="1.8" ry="1" 
+                 transform="rotate(60 8.000000000000002 13.856406460551018)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="4.141104721640332" cy="15.454813220625093" rx="2.5" ry="1.5" 
+                 transform="rotate(75 4.141104721640332 15.454813220625093)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="4.141104721640332" cy="15.454813220625093" rx="1.8" ry="1" 
+                 transform="rotate(75 4.141104721640332 15.454813220625093)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="9.797174393178826e-16" cy="16" rx="2.5" ry="1.5" 
+                 transform="rotate(90 9.797174393178826e-16 16)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="9.797174393178826e-16" cy="16" rx="1.8" ry="1" 
+                 transform="rotate(90 9.797174393178826e-16 16)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-4.141104721640334" cy="15.454813220625093" rx="2.5" ry="1.5" 
+                 transform="rotate(105 -4.141104721640334 15.454813220625093)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-4.141104721640334" cy="15.454813220625093" rx="1.8" ry="1" 
+                 transform="rotate(105 -4.141104721640334 15.454813220625093)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-7.9999999999999964" cy="13.85640646055102" rx="2.5" ry="1.5" 
+                 transform="rotate(120 -7.9999999999999964 13.85640646055102)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-7.9999999999999964" cy="13.85640646055102" rx="1.8" ry="1" 
+                 transform="rotate(120 -7.9999999999999964 13.85640646055102)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-11.31370849898476" cy="11.313708498984761" rx="2.5" ry="1.5" 
+                 transform="rotate(135 -11.31370849898476 11.313708498984761)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-11.31370849898476" cy="11.313708498984761" rx="1.8" ry="1" 
+                 transform="rotate(135 -11.31370849898476 11.313708498984761)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-13.85640646055102" cy="7.999999999999999" rx="2.5" ry="1.5" 
+                 transform="rotate(150 -13.85640646055102 7.999999999999999)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-13.85640646055102" cy="7.999999999999999" rx="1.8" ry="1" 
+                 transform="rotate(150 -13.85640646055102 7.999999999999999)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-15.454813220625091" cy="4.141104721640336" rx="2.5" ry="1.5" 
+                 transform="rotate(165 -15.454813220625091 4.141104721640336)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-15.454813220625091" cy="4.141104721640336" rx="1.8" ry="1" 
+                 transform="rotate(165 -15.454813220625091 4.141104721640336)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-16" cy="1.959434878635765e-15" rx="2.5" ry="1.5" 
+                 transform="rotate(180 -16 1.959434878635765e-15)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-16" cy="1.959434878635765e-15" rx="1.8" ry="1" 
+                 transform="rotate(180 -16 1.959434878635765e-15)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-15.454813220625095" cy="-4.141104721640326" rx="2.5" ry="1.5" 
+                 transform="rotate(195 -15.454813220625095 -4.141104721640326)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-15.454813220625095" cy="-4.141104721640326" rx="1.8" ry="1" 
+                 transform="rotate(195 -15.454813220625095 -4.141104721640326)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-13.856406460551018" cy="-8.000000000000002" rx="2.5" ry="1.5" 
+                 transform="rotate(210 -13.856406460551018 -8.000000000000002)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-13.856406460551018" cy="-8.000000000000002" rx="1.8" ry="1" 
+                 transform="rotate(210 -13.856406460551018 -8.000000000000002)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-11.313708498984763" cy="-11.31370849898476" rx="2.5" ry="1.5" 
+                 transform="rotate(225 -11.313708498984763 -11.31370849898476)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-11.313708498984763" cy="-11.31370849898476" rx="1.8" ry="1" 
+                 transform="rotate(225 -11.313708498984763 -11.31370849898476)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-8.000000000000007" cy="-13.856406460551016" rx="2.5" ry="1.5" 
+                 transform="rotate(240 -8.000000000000007 -13.856406460551016)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-8.000000000000007" cy="-13.856406460551016" rx="1.8" ry="1" 
+                 transform="rotate(240 -8.000000000000007 -13.856406460551016)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-4.14110472164033" cy="-15.454813220625093" rx="2.5" ry="1.5" 
+                 transform="rotate(255 -4.14110472164033 -15.454813220625093)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-4.14110472164033" cy="-15.454813220625093" rx="1.8" ry="1" 
+                 transform="rotate(255 -4.14110472164033 -15.454813220625093)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="-2.9391523179536475e-15" cy="-16" rx="2.5" ry="1.5" 
+                 transform="rotate(270 -2.9391523179536475e-15 -16)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="-2.9391523179536475e-15" cy="-16" rx="1.8" ry="1" 
+                 transform="rotate(270 -2.9391523179536475e-15 -16)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="4.141104721640338" cy="-15.454813220625091" rx="2.5" ry="1.5" 
+                 transform="rotate(285 4.141104721640338 -15.454813220625091)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="4.141104721640338" cy="-15.454813220625091" rx="1.8" ry="1" 
+                 transform="rotate(285 4.141104721640338 -15.454813220625091)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="8.000000000000002" cy="-13.856406460551018" rx="2.5" ry="1.5" 
+                 transform="rotate(300 8.000000000000002 -13.856406460551018)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="8.000000000000002" cy="-13.856406460551018" rx="1.8" ry="1" 
+                 transform="rotate(300 8.000000000000002 -13.856406460551018)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="11.313708498984758" cy="-11.313708498984763" rx="2.5" ry="1.5" 
+                 transform="rotate(315 11.313708498984758 -11.313708498984763)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="11.313708498984758" cy="-11.313708498984763" rx="1.8" ry="1" 
+                 transform="rotate(315 11.313708498984758 -11.313708498984763)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="13.856406460551014" cy="-8.000000000000007" rx="2.5" ry="1.5" 
+                 transform="rotate(330 13.856406460551014 -8.000000000000007)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="13.856406460551014" cy="-8.000000000000007" rx="1.8" ry="1" 
+                 transform="rotate(330 13.856406460551014 -8.000000000000007)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+        <ellipse cx="15.454813220625093" cy="-4.141104721640331" rx="2.5" ry="1.5" 
+                 transform="rotate(345 15.454813220625093 -4.141104721640331)"
+                 fill="#FFD700" opacity="0.8"/>
+        <ellipse cx="15.454813220625093" cy="-4.141104721640331" rx="1.8" ry="1" 
+                 transform="rotate(345 15.454813220625093 -4.141104721640331)"
+                 fill="#FFFFFF" opacity="0.4"/>
+      
+    
+    
+    <g transform="translate(0,-14)">
+      <path d="M-3,-2 Q0,-4 3,-2 Q2,0 0,1 Q-2,0 -3,-2" fill="#B8860B"/>
+      <circle cx="-1" cy="-1" r="0.5" fill="#FF6347"/> 
+      <circle cx="1" cy="-1" r="0.5" fill="#FF6347"/>
+      <path d="M-2,1 Q0,2 2,1" stroke="#8B4513" stroke-width="0.5" fill="none"/>
+    </g>
+    
+    
+    <g transform="translate(0,14)">
+      <path d="M-2,0 Q0,2 2,0 Q1,1 0,2 Q-1,1 -2,0" fill="#B8860B"/>
+      <path d="M0,2 L0,4" stroke="#8B4513" stroke-width="1"/>
+    </g>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#B8860B"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">60</text>
+
+    </g>
+  </g>
+  <g id="bracelet_70">
+    <!-- 64x64 区域，从 (680, 0) 开始 -->
+    <g transform="translate(680, 0)" clip-path="url(#clip680_0)">
+      <clipPath id="clip680_0">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="20" fill="#4ADE80" opacity="0.9" />
+    <circle cx="0" cy="0" r="16" fill="#DEB887" opacity="0.7"/>
+    
+    
+    <line x1="4.898587196589413e-16" y1="-8" x2="1.102182119232618e-15" y2="-18" stroke="#A0522D" stroke-width="2"/><line x1="5.656854249492381" y1="-5.65685424949238" x2="12.727922061357857" y2="-12.727922061357855" stroke="#A0522D" stroke-width="2"/><line x1="8" y1="0" x2="18" y2="0" stroke="#A0522D" stroke-width="2"/><line x1="5.656854249492381" y1="5.65685424949238" x2="12.727922061357857" y2="12.727922061357855" stroke="#A0522D" stroke-width="2"/><line x1="4.898587196589413e-16" y1="8" x2="1.102182119232618e-15" y2="18" stroke="#A0522D" stroke-width="2"/><line x1="-5.65685424949238" y1="5.656854249492381" x2="-12.727922061357855" y2="12.727922061357857" stroke="#A0522D" stroke-width="2"/><line x1="-8" y1="9.797174393178826e-16" x2="-18" y2="2.204364238465236e-15" stroke="#A0522D" stroke-width="2"/><line x1="-5.6568542494923815" y1="-5.65685424949238" x2="-12.727922061357859" y2="-12.727922061357855" stroke="#A0522D" stroke-width="2"/>
+    
+    
+    <text x="8.572527594031472e-16" y="-13" text-anchor="middle" font-size="3" fill="#8B0000">唵</text><text x="12.124355652982143" y="-5.999999999999999" text-anchor="middle" font-size="3" fill="#8B0000">嘛</text><text x="12.124355652982143" y="7.999999999999999" text-anchor="middle" font-size="3" fill="#8B0000">呢</text><text x="8.572527594031472e-16" y="15" text-anchor="middle" font-size="3" fill="#8B0000">叭</text><text x="-12.124355652982143" y="7.999999999999999" text-anchor="middle" font-size="3" fill="#8B0000">咪</text><text x="-12.12435565298214" y="-6.000000000000002" text-anchor="middle" font-size="3" fill="#8B0000">吽</text>
+    
+    
+    <circle cx="0" cy="0" r="6" fill="#A0522D" opacity="0.9"/>
+    <circle cx="0" cy="0" r="4" fill="#FFE4B5" opacity="0.8"/>
+    
+    
+    <text x="0" y="2" text-anchor="middle" font-size="4" fill="#8B0000">卍</text>
+    
+    
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#CD853F" stroke-width="0.5" opacity="0.7"/>
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#CD853F" stroke-width="0.3" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#A0522D"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">70</text>
+
+    </g>
+  </g>
+  <g id="bracelet_80">
+    <!-- 64x64 区域，从 (0, 68) 开始 -->
+    <g transform="translate(0, 68)" clip-path="url(#clip0_68)">
+      <clipPath id="clip0_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="-6" cy="0" r="14" fill="#4ADE80" opacity="0.8" />
+    <circle cx="-6" cy="0" r="10" fill="none" stroke="#F0F8FF" stroke-width="1"/>
+    
+    
+    <circle cx="6" cy="0" r="10" fill="#4ADE80" opacity="0.8" />
+    <circle cx="6" cy="0" r="7" fill="none" stroke="#DDA0DD" stroke-width="1"/>
+    
+    
+    <g transform="translate(-6,0)">
+      
+      <circle cx="0" cy="-8" r="2.5" fill="#FFFFFF" opacity="0.9"/>
+      
+      <path d="M-2,4 A2.5,2.5 0 0,1 2,4 A1.5,1.5 0 0,0 -2,4" fill="#F0F8FF" opacity="0.8"/>
+      
+      <path d="M4,-4 A2,2 0 0,1 4,4 A1,1 0 0,0 4,-4" fill="#E6E6FA" opacity="0.7"/>
+    </g>
+    
+    
+    <g transform="translate(6,0)">
+      <text x="3.6739403974420594e-16" y="-5" text-anchor="middle" font-size="2.5" fill="#9370DB">★</text><text x="5.706339097770921" y="-0.8541019662496843" text-anchor="middle" font-size="2.5" fill="#9370DB">☆</text><text x="3.526711513754839" y="5.854101966249685" text-anchor="middle" font-size="2.5" fill="#9370DB">✦</text><text x="-3.5267115137548384" y="5.854101966249685" text-anchor="middle" font-size="2.5" fill="#9370DB">✧</text><text x="-5.706339097770921" y="-0.8541019662496865" text-anchor="middle" font-size="2.5" fill="#9370DB">✩</text>
+    </g>
+    
+    
+    <ellipse cx="0" cy="0" rx="3" ry="8" fill="#4ADE80" opacity="0.6"/>
+    <ellipse cx="0" cy="0" rx="2" ry="6" fill="#4ADE80" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="2" fill="#FFFFFF" opacity="0.9"/>
+    <text x="0" y="1" text-anchor="middle" font-size="2" fill="#9370DB">月</text>
+    
+    
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#F0F8FF" stroke-width="0.3" opacity="0.5"/>
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#E6E6FA" stroke-width="0.2" opacity="0.4"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#9370DB"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">80</text>
+
+    </g>
+  </g>
+  <g id="bracelet_90">
+    <!-- 64x64 区域，从 (68, 68) 开始 -->
+    <g transform="translate(68, 68)" clip-path="url(#clip68_68)">
+      <clipPath id="clip68_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  <g transform="translate(32,32)">
+    
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#DAA520" stroke-width="1.5" opacity="0.8"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#E6E6FA" stroke-width="2" opacity="0.9"/>
+    
+    
+    
+    <g transform="translate(0,-15)" >
+      <circle cx="0" cy="0" r="5" fill="#4ADE80" opacity="0.95"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFFFFF" opacity="0.8"/>
+      <text x="0" y="1" text-anchor="middle" font-size="2.5" fill="#9370DB">德</text>
+    </g>
+    
+    
+    <g transform="translate(-13,7.5)" >
+      <circle cx="0" cy="0" r="5" fill="#4ADE80" opacity="0.95"/>
+      <circle cx="0" cy="0" r="3.5" fill="#FFFACD" opacity="0.8"/>
+      <text x="0" y="1" text-anchor="middle" font-size="2.5" fill="#B8860B">元</text>
+    </g>
+    
+    
+    <g transform="translate(13,7.5)" >
+      <circle cx="0" cy="0" r="5" fill="#4ADE80" opacity="0.95"/>
+      <circle cx="0" cy="0" r="3.5" fill="#E0FFFF" opacity="0.8"/>
+      <text x="0" y="1" text-anchor="middle" font-size="2.5" fill="#5F9EA0">宝</text>
+    </g>
+    
+    
+    <path d="M0,-10 L-8,2.5 L8,2.5 Z" stroke="#DAA520" stroke-width="1" fill="none" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="4" fill="#4ADE80" opacity="0.8"/>
+    <path d="M0,-4 A4,4 0 0,1 0,4 A2,2 0 0,1 0,0 A2,2 0 0,0 0,-4" fill="#9370DB" opacity="0.7"/>
+    <circle cx="0" cy="-2" r="1" fill="#FFFFFF"/>
+    <circle cx="0" cy="2" r="1" fill="#9370DB"/>
+    
+    
+    <circle cx="0" cy="0" r="22" fill="none" stroke="#F0F8FF" stroke-width="0.3" opacity="0.5"/>
+    <circle cx="0" cy="0" r="24" fill="none" stroke="#E6E6FA" stroke-width="0.2" opacity="0.4"/>
+    
+    
+    <text x="9.797174393178826e-16" y="-15" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☰</text><text x="11.313708498984761" y="-10.31370849898476" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☱</text><text x="16" y="1" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☲</text><text x="11.313708498984761" y="12.31370849898476" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☳</text><text x="9.797174393178826e-16" y="17" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☴</text><text x="-11.31370849898476" y="12.313708498984761" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☵</text><text x="-16" y="1.000000000000002" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☶</text><text x="-11.313708498984763" y="-10.31370849898476" text-anchor="middle" font-size="1.5" fill="#DAA520" opacity="0.7">☷</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#9370DB"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">90</text>
+
+    </g>
+  </g>
+  <g id="necklace_100">
+    <!-- 64x64 区域，从 (136, 68) 开始 -->
+    <g transform="translate(136, 68)" clip-path="url(#clip136_68)">
+      <clipPath id="clip136_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M6 14 Q18 10 32 16 Q46 10 58 14" stroke="#FFD700" stroke-width="2.5" fill="none" />
+  
+  
+  <circle cx="8" cy="12" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="8" cy="12" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="16" cy="13.434712181799046" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="16" cy="13.434712181799046" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="24" cy="13.99914720608301" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="24" cy="13.99914720608301" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="32" cy="13.350926361102301" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="32" cy="13.350926361102301" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="40" cy="11.88325171314484" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="40" cy="11.88325171314484" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="48" cy="10.486395009384143" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="48" cy="10.486395009384143" r="0.6" fill="#FFFACD" opacity="0.9"/><circle cx="56" cy="10.007670782328319" r="1.2" fill="#FF6347" opacity="0.8"/>
+            <circle cx="56" cy="10.007670782328319" r="0.6" fill="#FFFACD" opacity="0.9"/>
+  
+  
+  <g transform="translate(32,40)">
+    
+    <g transform="rotate(0)"><path d="M0,-16 C-6,-14 -7,-6 0,0 C7,-6 6,-14 0,-16" fill="#4ADE80"/></g>
+    <g transform="rotate(40)"><path d="M0,-16 C-6,-14 -7,-6 0,0 C7,-6 6,-14 0,-16" fill="#4ADE80"/></g>
+    <g transform="rotate(80)"><path d="M0,-16 C-6,-14 -7,-6 0,0 C7,-6 6,-14 0,-16" fill="#4ADE80"/></g>
+    
+    
+    <g transform="rotate(20)"><path d="M0,-13 C-4.5,-11 -5,-4 0,0 C5,-4 4.5,-11 0,-13" fill="#4ADE80"/></g>
+    <g transform="rotate(60)"><path d="M0,-13 C-4.5,-11 -5,-4 0,0 C5,-4 4.5,-11 0,-13" fill="#4ADE80"/></g>
+    <g transform="rotate(100)"><path d="M0,-13 C-4.5,-11 -5,-4 0,0 C5,-4 4.5,-11 0,-13" fill="#4ADE80"/></g>
+    
+    
+    <circle cx="0" cy="0" r="6" fill="#4ADE80"/>
+    <circle cx="0" cy="0" r="3.5" fill="#FFF8DC" opacity="0.8"/>
+    
+    
+    <circle cx="-2" cy="-2" r="0.8" fill="#FFFFFF"/>
+    <circle cx="2" cy="-1" r="0.7" fill="#F0F8FF"/>
+    <circle cx="0" cy="2" r="0.9" fill="#FFFACD"/>
+    <circle cx="-1.5" cy="1" r="0.6" fill="#F5F5DC"/>
+    <circle cx="1.5" cy="0.5" r="0.8" fill="#FFFFF0"/>
+  </g>
+  
+  
+  <g transform="translate(32,24)">
+    <path d="M-4,-2 Q-6,-6 -2,-7 Q2,-6 4,-2 Q2,2 0,1 Q-2,2 -4,-2" fill="#FF8C00"/>
+    <circle cx="0" cy="-1" r="1.5" fill="#FF6347"/>
+    <circle cx="0" cy="-1" r="0.8" fill="#FFFFFF" opacity="0.7"/>
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="7" fill="#B8860B" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="5" fill="#FFFFFF">100</text>
+
+    </g>
+  </g>
+  <g id="necklace_110">
+    <!-- 64x64 区域，从 (204, 68) 开始 -->
+    <g transform="translate(204, 68)" clip-path="url(#clip204_68)">
+      <clipPath id="clip204_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M4 18 Q16 12 32 20 Q48 12 60 18" stroke="#4ADE80" stroke-width="3" fill="none" opacity="0.9"/>
+  <path d="M4 16 Q16 14 32 18 Q48 14 60 16" stroke="#4ADE80" stroke-width="2" fill="none" opacity="0.7"/>
+  
+  
+  
+    <circle cx="12" cy="16" r="2" fill="#4ADE80" opacity="0.8" />
+    <circle cx="16" cy="18" r="1.5" fill="#4ADE80" opacity="0.6"/>
+  
+    <circle cx="24" cy="15" r="2" fill="#4ADE80" opacity="0.8" />
+    <circle cx="28" cy="19" r="1.5" fill="#4ADE80" opacity="0.6"/>
+  
+    <circle cx="36" cy="14" r="2" fill="#4ADE80" opacity="0.8" />
+    <circle cx="40" cy="20" r="1.5" fill="#4ADE80" opacity="0.6"/>
+  
+    <circle cx="48" cy="13" r="2" fill="#4ADE80" opacity="0.8" />
+    <circle cx="52" cy="21" r="1.5" fill="#4ADE80" opacity="0.6"/>
+  
+  
+  
+  <g transform="translate(32,42)">
+    
+    <path d="M-8,0 A8,8 0 0,1 8,0 Z" fill="#4ADE80" opacity="0.9" />
+    
+    
+    <path d="M-8,0 A8,8 0 0,0 8,0 Z" fill="#4ADE80" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="3" fill="none" stroke="#FFFFFF" stroke-width="0.5" opacity="0.9"/>
+    <circle cx="-2" cy="0" r="1" fill="#4ADE80"/>
+    <circle cx="2" cy="0" r="1" fill="#4ADE80"/>
+    
+    
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#DDA0DD" stroke-width="0.3" opacity="0.6"/>
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#4B0082" stroke-width="0.2" opacity="0.4"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#9400D3" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">110</text>
+
+    </g>
+  </g>
+  <g id="necklace_120">
+    <!-- 64x64 区域，从 (272, 68) 开始 -->
+    <g transform="translate(272, 68)" clip-path="url(#clip272_68)">
+      <clipPath id="clip272_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M6 16 Q18 12 32 18 Q46 12 58 16" stroke="#4ADE80" stroke-width="4" fill="none" opacity="0.9" />
+  
+  
+  
+      <rect x="14" y="13" width="4" height="4" rx="1" fill="#4ADE80" opacity="0.8"/>
+      <text x="16" y="16" text-anchor="middle" font-size="3" fill="#5F9EA0">❅</text>
+    
+      <rect x="24" y="13" width="4" height="4" rx="1" fill="#4ADE80" opacity="0.8"/>
+      <text x="26" y="16" text-anchor="middle" font-size="3" fill="#5F9EA0">❆</text>
+    
+      <rect x="36" y="13" width="4" height="4" rx="1" fill="#4ADE80" opacity="0.8"/>
+      <text x="38" y="16" text-anchor="middle" font-size="3" fill="#5F9EA0">❄</text>
+    
+      <rect x="46" y="13" width="4" height="4" rx="1" fill="#4ADE80" opacity="0.8"/>
+      <text x="48" y="16" text-anchor="middle" font-size="3" fill="#5F9EA0">⟡</text>
+    
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <g stroke="#4ADE80" stroke-width="2" fill="none">
+      <line x1="0" y1="-12" x2="0" y2="12"/>
+      <line x1="-10.4" y1="-6" x2="10.4" y2="6"/>
+      <line x1="-10.4" y1="6" x2="10.4" y2="-6"/>
+    </g>
+    
+    
+    
+      <g transform="rotate(0)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+      <g transform="rotate(60)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+      <g transform="rotate(120)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+      <g transform="rotate(180)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+      <g transform="rotate(240)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+      <g transform="rotate(300)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="1"/>
+        <line x1="-2" y1="-10" x2="2" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.5"/>
+      </g>
+    
+    
+    
+    <circle cx="0" cy="0" r="4" fill="#4ADE80" opacity="0.9"/>
+    <circle cx="0" cy="0" r="2.5" fill="#FF1493" opacity="0.7"/>
+    
+    
+    <path d="M-2,-1 Q0,-2 2,-1 Q1,0 0,1 Q-1,0 -2,-1" fill="#8B0000" opacity="0.8"/>
+  </g>
+  
+  
+  <g transform="translate(32,22)">
+    <ellipse cx="0" cy="0" rx="3" ry="2" fill="#4ADE80" />
+    <ellipse cx="0" cy="0" rx="2" ry="1.3" fill="#E0FFFF" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#5F9EA0" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">120</text>
+
+    </g>
+  </g>
+  <g id="necklace_130">
+    <!-- 64x64 区域，从 (340, 68) 开始 -->
+    <g transform="translate(340, 68)" clip-path="url(#clip340_68)">
+      <clipPath id="clip340_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  
+      <path d="M8 16 Q10 13 12 16" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="10" cy="14.5" r="1" fill="#4ADE80"/>
+      <text x="10" y="24" text-anchor="middle" font-size="2" fill="#663399">宫</text>
+    
+      <path d="M14 17.932653061713072 Q16 14.932653061713072 18 17.932653061713072" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="16" cy="16.432653061713072" r="1" fill="#4ADE80"/>
+      <text x="16" y="25.932653061713072" text-anchor="middle" font-size="2" fill="#663399">商</text>
+    
+      <path d="M20 18.95634918996538 Q22 15.95634918996538 24 18.95634918996538" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="22" cy="17.45634918996538" r="1" fill="#4ADE80"/>
+      <text x="22" y="26.95634918996538" text-anchor="middle" font-size="2" fill="#663399">角</text>
+    
+      <path d="M26 18.589628099946623 Q28 15.589628099946623 30 18.589628099946623" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="28" cy="17.089628099946623" r="1" fill="#4ADE80"/>
+      <text x="28" y="26.589628099946623" text-anchor="middle" font-size="2" fill="#663399">徵</text>
+    
+      <path d="M32 17.004964450467714 Q34 14.004964450467714 36 17.004964450467714" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="34" cy="15.504964450467714" r="1" fill="#4ADE80"/>
+      <text x="34" y="25.004964450467714" text-anchor="middle" font-size="2" fill="#663399">羽</text>
+    
+      <path d="M38 14.94765031693114 Q40 11.94765031693114 42 14.94765031693114" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="40" cy="13.44765031693114" r="1" fill="#4ADE80"/>
+      <text x="40" y="22.94765031693114" text-anchor="middle" font-size="2" fill="#663399">变宫</text>
+    
+      <path d="M44 13.385272682759236 Q46 10.385272682759236 48 13.385272682759236" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="46" cy="11.885272682759236" r="1" fill="#4ADE80"/>
+      <text x="46" y="21.385272682759236" text-anchor="middle" font-size="2" fill="#663399">变徵</text>
+    
+      <path d="M50 13.052642162127002 Q52 10.052642162127002 54 13.052642162127002" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="52" cy="11.552642162127002" r="1" fill="#4ADE80"/>
+      <text x="52" y="21.052642162127" text-anchor="middle" font-size="2" fill="#663399">清角</text>
+    
+      <path d="M56 14.106200086383035 Q58 11.106200086383035 60 14.106200086383035" 
+            stroke="#4ADE80" stroke-width="1.5" fill="none" opacity="0.8"/>
+      <circle cx="58" cy="12.606200086383035" r="1" fill="#4ADE80"/>
+      <text x="58" y="22.106200086383033" text-anchor="middle" font-size="2" fill="#663399">清商</text>
+    
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#4ADE80" stroke-width="1" opacity="0.6"/>
+    <circle cx="0" cy="0" r="13" fill="none" stroke="#4ADE80" stroke-width="0.8" opacity="0.7"/>
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#4ADE80" stroke-width="0.6" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="7" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <text x="-3" y="-1" font-family="serif" font-size="4" fill="#FFFFFF">♪</text>
+    <text x="3" y="2" font-family="serif" font-size="3" fill="#E6E6FA">♫</text>
+    <text x="0" y="-4" font-family="serif" font-size="2.5" fill="#DDA0DD">♬</text>
+    
+    
+    <circle cx="5.51091059616309e-16" cy="-9" r="0.5" fill="#E6E6FA" opacity="0.7"/><circle cx="7.794228634059948" cy="-4.499999999999999" r="0.5" fill="#E6E6FA" opacity="0.7"/><circle cx="7.794228634059948" cy="4.499999999999999" r="0.5" fill="#E6E6FA" opacity="0.7"/><circle cx="5.51091059616309e-16" cy="9" r="0.5" fill="#E6E6FA" opacity="0.7"/><circle cx="-7.794228634059948" cy="4.499999999999999" r="0.5" fill="#E6E6FA" opacity="0.7"/><circle cx="-7.794228634059947" cy="-4.500000000000001" r="0.5" fill="#E6E6FA" opacity="0.7"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#663399" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">130</text>
+
+    </g>
+  </g>
+  <g id="necklace_140">
+    <!-- 64x64 区域，从 (408, 68) 开始 -->
+    <g transform="translate(408, 68)" clip-path="url(#clip408_68)">
+      <clipPath id="clip408_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M4 18 C12 12, 20 22, 32 16 C44 22, 52 12, 60 18" 
+        stroke="#4ADE80" stroke-width="3.5" fill="none" opacity="0.9" />
+  
+  
+  
+      <circle cx="12" cy="16" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="12" y="17" text-anchor="middle" font-size="3" fill="#2F2F2F">⚊</text>
+    
+      <circle cx="20" cy="19.728156343868903" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="20" y="20.728156343868903" text-anchor="middle" font-size="3" fill="#2F2F2F">⚋</text>
+    
+      <circle cx="28" cy="18.701852722204602" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="28" y="19.701852722204602" text-anchor="middle" font-size="3" fill="#2F2F2F">☰</text>
+    
+      <circle cx="36" cy="14.229918226820592" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="36" y="15.229918226820592" text-anchor="middle" font-size="3" fill="#2F2F2F">☷</text>
+    
+      <circle cx="44" cy="12.015341564656637" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="44" y="13.015341564656637" text-anchor="middle" font-size="3" fill="#2F2F2F">☵</text>
+    
+      <circle cx="52" cy="14.882338007204297" r="2.5" fill="#4ADE80" opacity="0.8"/>
+      <text x="52" y="15.882338007204297" text-anchor="middle" font-size="3" fill="#2F2F2F">☲</text>
+    
+  
+  
+  <g transform="translate(32,45)" >
+    
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="12" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M0,-12 A12,12 0 0,1 0,12 A6,6 0 0,1 0,0 A6,6 0 0,0 0,-12" 
+          fill="#4ADE80" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="-6" r="2.5" fill="#FFFFFF" opacity="0.9"/>
+    <circle cx="0" cy="6" r="2.5" fill="#2F2F2F" opacity="0.9"/>
+    
+    
+    <circle cx="-8" cy="0" r="1.5" fill="#4ADE80" opacity="0.8"/>
+    <circle cx="8" cy="0" r="1.5" fill="#4ADE80" opacity="0.8"/>
+    <circle cx="0" cy="-8" r="1.5" fill="#4ADE80" opacity="0.8"/>
+    <circle cx="0" cy="8" r="1.5" fill="#4ADE80" opacity="0.8"/>
+    
+    
+    <path d="M-10,-8 Q-5,0 -10,8 Q-5,4 0,0 Q5,-4 10,-8 Q5,0 10,8" 
+          stroke="#4ADE80" stroke-width="0.5" fill="none" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#8B4513" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">140</text>
+
+    </g>
+  </g>
+  <g id="necklace_150">
+    <!-- 64x64 区域，从 (476, 68) 开始 -->
+    <g transform="translate(476, 68)" clip-path="url(#clip476_68)">
+      <clipPath id="clip476_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M2 20 Q16 8 32 18 Q48 8 62 20" 
+        stroke="#4ADE80" stroke-width="4" fill="none" opacity="0.8" />
+  
+  
+  
+      <rect x="6" y="16" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="8" y="19" text-anchor="middle" font-size="3" fill="#2F2F2F">天</text>
+    
+      <rect x="14.5" y="18.876553231625216" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="16.5" y="21.876553231625216" text-anchor="middle" font-size="3" fill="#2F2F2F">地</text>
+    
+      <rect x="23" y="21.048825908847377" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="25" y="24.048825908847377" text-anchor="middle" font-size="3" fill="#2F2F2F">玄</text>
+    
+      <rect x="31.5" y="21.984969919624326" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="33.5" y="24.984969919624326" text-anchor="middle" font-size="3" fill="#2F2F2F">黄</text>
+    
+      <rect x="40" y="21.45578456095409" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="42" y="24.45578456095409" text-anchor="middle" font-size="3" fill="#2F2F2F">宇</text>
+    
+      <rect x="48.5" y="19.59083286462374" width="4" height="4" rx="1" 
+            fill="#4ADE80" opacity="0.9"/>
+      <text x="50.5" y="22.59083286462374" text-anchor="middle" font-size="3" fill="#2F2F2F">宙</text>
+    
+  
+  
+  <g transform="translate(32,45)" >
+    
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#4ADE80" stroke-width="1" opacity="0.5"/>
+    
+    
+    <circle cx="0" cy="0" r="14" fill="#4ADE80" opacity="0.95"/>
+    
+    
+    <line x1="-14" y1="0" x2="14" y2="0" stroke="#4ADE80" stroke-width="2" opacity="0.8"/>
+    
+    
+    <path d="M-14,0 A14,14 0 0,1 14,0 Z" fill="#4ADE80" opacity="0.7"/>
+    
+    
+    <path d="M-14,0 A14,14 0 0,0 14,0 Z" fill="#2F2F2F" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="6" fill="#4ADE80" opacity="1"/>
+    
+    
+    <path d="M-4,-4 L4,4 M4,-4 L-4,4" stroke="#FFFAF0" stroke-width="1" opacity="0.9"/>
+    <circle cx="0" cy="0" r="2" fill="#FFFFFF" opacity="0.8"/>
+    
+    
+    <text x="-10" y="-8" font-size="3" fill="#F0E68C">龙</text>
+    <text x="8" y="-8" font-size="3" fill="#F0E68C">凤</text>
+    <text x="-10" y="10" font-size="3" fill="#B8860B">龟</text>
+    <text x="8" y="10" font-size="3" fill="#B8860B">麟</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#B8860B" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">150</text>
+
+    </g>
+  </g>
+  <g id="necklace_20">
+    <!-- 64x64 区域，从 (544, 68) 开始 -->
+    <g transform="translate(544, 68)" clip-path="url(#clip544_68)">
+      <clipPath id="clip544_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M8 16 Q20 12 32 16 Q44 12 56 16" stroke="#90EE90" stroke-width="2" fill="none"/>
+  
+  
+  <circle cx="10" cy="14" r="1.5861105652098193" fill="#90EE90" opacity="0.8"/><circle cx="16" cy="15.12928494679007" r="1.4660694328335462" fill="#90EE90" opacity="0.8"/><circle cx="22" cy="15.864078171934452" r="1.5848171311521402" fill="#90EE90" opacity="0.8"/><circle cx="28" cy="15.94769526175639" r="1.2426695665825565" fill="#90EE90" opacity="0.8"/><circle cx="34" cy="15.350926361102301" r="1.5187619620999273" fill="#90EE90" opacity="0.8"/><circle cx="40" cy="14.282240016119735" r="1.758669694999134" fill="#90EE90" opacity="0.8"/><circle cx="46" cy="13.114959113410295" r="1.5525211528515586" fill="#90EE90" opacity="0.8"/><circle cx="52" cy="12.256848455172824" r="1.4484889319698213" fill="#90EE90" opacity="0.8"/><circle cx="58" cy="12.007670782328319" r="1.4043549778016373" fill="#90EE90" opacity="0.8"/>
+  
+  
+  <g transform="translate(32,38)">
+    <ellipse cx="0" cy="0" rx="8" ry="10" fill="#90EE90" opacity="0.9"/>
+    <ellipse cx="0" cy="0" rx="5" ry="7" fill="#E0FFE0" opacity="0.6"/>
+    
+    
+    <path d="M-3,-5 Q0,-3 3,-5" stroke="#228B22" stroke-width="0.5" fill="none" opacity="0.7"/>
+    <path d="M-2,2 Q1,4 4,1" stroke="#228B22" stroke-width="0.5" fill="none" opacity="0.7"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#228B22"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">20</text>
+
+    </g>
+  </g>
+  <g id="necklace_35">
+    <!-- 64x64 区域，从 (612, 68) 开始 -->
+    <g transform="translate(612, 68)" clip-path="url(#clip612_68)">
+      <clipPath id="clip612_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M10 18 Q22 14 32 18 Q42 14 54 18" stroke="#DDA0DD" stroke-width="2" fill="none"/>
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <path d="M0,-12 L-6,-4 L-8,4 L0,8 L8,4 L6,-4 Z" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M0,-10 L-4,-2 L0,6 L4,-2 Z" fill="#E6E6FA" opacity="0.6"/>
+    
+    
+    <line x1="-3" y1="-6" x2="3" y2="-2" stroke="#DDA0DD" stroke-width="0.3" opacity="0.8"/>
+    <line x1="-2" y1="0" x2="2" y2="4" stroke="#DDA0DD" stroke-width="0.3" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="3" fill="none" stroke="#8B008B" stroke-width="0.5" opacity="0.7"/>
+    <text x="0" y="1" text-anchor="middle" font-size="3" fill="#8B008B">紫</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B008B"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">35</text>
+
+    </g>
+  </g>
+  <g id="necklace_50">
+    <!-- 64x64 区域，从 (680, 68) 开始 -->
+    <g transform="translate(680, 68)" clip-path="url(#clip680_68)">
+      <clipPath id="clip680_68">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  
+  <path d="M8 14 Q20 10 32 14" stroke="#4ADE80" stroke-width="3" fill="none"/>
+    
+  <path d="M32 14 Q44 18 56 14" stroke="#4ADE80" stroke-width="3" fill="none"/>
+  
+  
+  <g transform="translate(32,38)">
+    
+    <circle cx="0" cy="-8" r="4" fill="#4ADE80" opacity="0.9"/>
+    <text x="0" y="-6" text-anchor="middle" font-size="3" fill="#FFFFFF">天</text>
+    
+    
+    <circle cx="0" cy="0" r="5" fill="#4ADE80" opacity="0.9"/>
+    <text x="0" y="2" text-anchor="middle" font-size="3" fill="#FFFFFF">人</text>
+    
+    
+    <circle cx="0" cy="8" r="4" fill="#4ADE80" opacity="0.9"/>
+    <text x="0" y="10" text-anchor="middle" font-size="3" fill="#FFFFFF">地</text>
+    
+    
+    <line x1="0" y1="-4" x2="0" y2="-5" stroke="#DAA520" stroke-width="1"/>
+    <line x1="0" y1="5" x2="0" y2="4" stroke="#DAA520" stroke-width="1"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#DAA520"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">50</text>
+
+    </g>
+  </g>
+  <g id="necklace_60">
+    <!-- 64x64 区域，从 (0, 136) 开始 -->
+    <g transform="translate(0, 136)" clip-path="url(#clip0_136)">
+      <clipPath id="clip0_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M6 16 Q18 12 32 16 Q46 12 58 16" stroke="#4ADE80" stroke-width="2.5" fill="none"/>
+  
+  
+  
+    <circle cx="16" cy="14" r="2.5" fill="#FF0000" opacity="0.9"/>
+    <circle cx="16" cy="14" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <text x="16" y="8" text-anchor="middle" font-size="2" fill="#FF0000">赤</text>
+  
+    <circle cx="24" cy="14" r="2.5" fill="#FF8C00" opacity="0.9"/>
+    <circle cx="24" cy="14" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <text x="24" y="8" text-anchor="middle" font-size="2" fill="#FF8C00">橙</text>
+  
+    <circle cx="32" cy="14" r="2.5" fill="#FFD700" opacity="0.9"/>
+    <circle cx="32" cy="14" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <text x="32" y="8" text-anchor="middle" font-size="2" fill="#FFD700">黄</text>
+  
+    <circle cx="40" cy="14" r="2.5" fill="#32CD32" opacity="0.9"/>
+    <circle cx="40" cy="14" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <text x="40" y="8" text-anchor="middle" font-size="2" fill="#32CD32">绿</text>
+  
+    <circle cx="48" cy="14" r="2.5" fill="#4169E1" opacity="0.9"/>
+    <circle cx="48" cy="14" r="1.5" fill="#FFFFFF" opacity="0.6"/>
+    <text x="48" y="8" text-anchor="middle" font-size="2" fill="#4169E1">蓝</text>
+  
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <path d="M0,-10 L-6,-3 L-8,5 L0,8 L8,5 L6,-3 Z" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M0,-8 L-4,-1 L0,6 L4,-1 Z" fill="#FFFFFF" opacity="0.5"/>
+    
+    
+    <circle cx="0" cy="0" r="12" fill="none" stroke="#4ADE80" stroke-width="0.5" opacity="0.6"/>
+    
+    
+    <circle cx="8.572527594031472e-16" cy="-14" r="0.8" fill="#FF0000" opacity="0.7"/><circle cx="9.899494936611665" cy="-9.899494936611664" r="0.8" fill="#FF8C00" opacity="0.7"/><circle cx="14" cy="0" r="0.8" fill="#FFD700" opacity="0.7"/><circle cx="9.899494936611665" cy="9.899494936611664" r="0.8" fill="#32CD32" opacity="0.7"/><circle cx="8.572527594031472e-16" cy="14" r="0.8" fill="#00CED1" opacity="0.7"/><circle cx="-9.899494936611664" cy="9.899494936611665" r="0.8" fill="#4169E1" opacity="0.7"/><circle cx="-14" cy="1.7145055188062944e-15" r="0.8" fill="#8A2BE2" opacity="0.7"/><circle cx="-9.899494936611667" cy="-9.899494936611664" r="0.8" fill="#FF1493" opacity="0.7"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8A2BE2"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">60</text>
+
+    </g>
+  </g>
+  <g id="necklace_70">
+    <!-- 64x64 区域，从 (68, 136) 开始 -->
+    <g transform="translate(68, 136)" clip-path="url(#clip68_136)">
+      <clipPath id="clip68_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M4 16 Q16 10 32 16 Q48 10 60 16" stroke="#4ADE80" stroke-width="3" fill="none" opacity="0.9"/>
+  
+  
+  
+      <g transform="translate(12,14)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(20,15.434712181799046)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(28,15.99914720608301)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(36,15.350926361102301)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(44,13.88325171314484)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(52,12.486395009384143)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+      <g transform="translate(60,12.007670782328319)">
+        
+        <g stroke="#E6E6FA" stroke-width="0.8" fill="none">
+          <line x1="0" y1="-2" x2="0" y2="2"/>
+          <line x1="-1.7" y1="-1" x2="1.7" y2="1"/>
+          <line x1="-1.7" y1="1" x2="1.7" y2="-1"/>
+        </g>
+        <circle cx="0" cy="0" r="1" fill="#4ADE80" opacity="0.8"/>
+      </g>
+    
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <g stroke="#4ADE80" stroke-width="1" fill="none">
+      <line x1="0" y1="-12" x2="0" y2="12"/>
+      <line x1="-10.4" y1="-6" x2="10.4" y2="6"/>
+      <line x1="-10.4" y1="6" x2="10.4" y2="-6"/>
+    </g>
+    
+    
+    
+      <g transform="rotate(0)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+      <g transform="rotate(60)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+      <g transform="rotate(120)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+      <g transform="rotate(180)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+      <g transform="rotate(240)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+      <g transform="rotate(300)">
+        <line x1="0" y1="-8" x2="0" y2="-12" stroke="#4ADE80" stroke-width="0.8"/>
+        <line x1="-1.5" y1="-10" x2="1.5" y2="-10" stroke="#4ADE80" stroke-width="0.5"/>
+        <line x1="-1" y1="-9" x2="1" y2="-9" stroke="#4ADE80" stroke-width="0.3"/>
+      </g>
+    
+    
+    
+    <circle cx="0" cy="0" r="5" fill="#4ADE80" opacity="0.9"/>
+    <circle cx="0" cy="0" r="3" fill="#FFFFFF" opacity="0.8"/>
+    <text x="0" y="1" text-anchor="middle" font-size="3" fill="#B0C4DE">雪</text>
+    
+    
+    <circle cx="0" cy="0" r="15" fill="none" stroke="#F0F8FF" stroke-width="0.3" opacity="0.5"/>
+    <circle cx="0" cy="0" r="17" fill="none" stroke="#E6E6FA" stroke-width="0.2" opacity="0.4"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#B0C4DE"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">70</text>
+
+    </g>
+  </g>
+  <g id="necklace_80">
+    <!-- 64x64 区域，从 (136, 136) 开始 -->
+    <g transform="translate(136, 136)" clip-path="url(#clip136_136)">
+      <clipPath id="clip136_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M4 16 Q16 10 32 16 Q48 10 60 16" stroke="#4ADE80" stroke-width="3.5" fill="none"/>
+  
+  
+  
+      <g transform="translate(16,14)">
+        <rect x="-3" y="-2" width="6" height="4" rx="1" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="0" cy="0" r="1.5" fill="#4682B4" opacity="0.8"/>
+        <text x="0" y="0.5" text-anchor="middle" font-size="2" fill="#FFFFFF">☯</text>
+      </g>
+    
+      <g transform="translate(32,15.682941969615793)">
+        <rect x="-3" y="-2" width="6" height="4" rx="1" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="0" cy="0" r="1.5" fill="#4682B4" opacity="0.8"/>
+        <text x="0" y="0.5" text-anchor="middle" font-size="2" fill="#FFFFFF">◊</text>
+      </g>
+    
+      <g transform="translate(48,15.818594853651364)">
+        <rect x="-3" y="-2" width="6" height="4" rx="1" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="0" cy="0" r="1.5" fill="#4682B4" opacity="0.8"/>
+        <text x="0" y="0.5" text-anchor="middle" font-size="2" fill="#FFFFFF">※</text>
+      </g>
+    
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.8"/>
+    
+    
+    <rect x="-8" y="-6" width="16" height="12" rx="3" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="0" r="3" fill="#4682B4" opacity="0.9"/>
+    <rect x="-1" y="0" width="2" height="4" fill="#4682B4"/>
+    
+    
+    <text x="6.123233995736766e-16" y="-9" text-anchor="middle" font-size="2.5" fill="#4682B4">天</text><text x="8.660254037844387" y="-3.999999999999999" text-anchor="middle" font-size="2.5" fill="#4682B4">机</text><text x="8.660254037844387" y="5.999999999999999" text-anchor="middle" font-size="2.5" fill="#4682B4">不</text><text x="6.123233995736766e-16" y="11" text-anchor="middle" font-size="2.5" fill="#4682B4">可</text><text x="-8.660254037844387" y="5.999999999999999" text-anchor="middle" font-size="2.5" fill="#4682B4">泄</text><text x="-8.660254037844386" y="-4.000000000000001" text-anchor="middle" font-size="2.5" fill="#4682B4">露</text>
+    
+    
+    <path d="M0,-6 Q-4,-10 0,-12 Q4,-10 0,-6" stroke="#87CEEB" stroke-width="2" fill="none"/>
+    
+    
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#DDA0DD" stroke-width="0.5" opacity="0.6"/>
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#FFE4B5" stroke-width="0.3" opacity="0.5"/>
+    
+    
+    <path d="M-6,-8 L6,-8 L6,8 L-6,8 Z" stroke="#4682B4" stroke-width="0.5" fill="none" opacity="0.7"/>
+    <path d="M-8,-6 L8,-6 L8,6 L-8,6 Z" stroke="#4682B4" stroke-width="0.5" fill="none" opacity="0.7"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#4682B4"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">80</text>
+
+    </g>
+  </g>
+  <g id="necklace_90">
+    <!-- 64x64 区域，从 (204, 136) 开始 -->
+    <g transform="translate(204, 136)" clip-path="url(#clip204_136)">
+      <clipPath id="clip204_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M8 18 Q20 12 32 18 Q44 12 56 18" stroke="#4ADE80" stroke-width="3" fill="none"/>
+  
+  
+  
+      <circle cx="16" cy="16" r="3" fill="#4ADE80" opacity="0.9"/>
+      <text x="16" y="17" text-anchor="middle" font-size="2.5" fill="#8B008B">封</text>
+    
+      <circle cx="28" cy="18.796117257901678" r="3" fill="#4ADE80" opacity="0.9"/>
+      <text x="28" y="19.796117257901678" text-anchor="middle" font-size="2.5" fill="#8B008B">印</text>
+    
+      <circle cx="40" cy="18.02638954165345" r="3" fill="#4ADE80" opacity="0.9"/>
+      <text x="40" y="19.02638954165345" text-anchor="middle" font-size="2.5" fill="#8B008B">镇</text>
+    
+      <circle cx="52" cy="14.672438670115444" r="3" fill="#4ADE80" opacity="0.9"/>
+      <text x="52" y="15.672438670115444" text-anchor="middle" font-size="2.5" fill="#8B008B">压</text>
+    
+  
+  
+  <g transform="translate(32,42)" >
+    
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.8"/>
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#4ADE80" stroke-width="1" opacity="0.6"/>
+    
+    
+    <circle cx="0" cy="0" r="10" fill="#4ADE80" opacity="0.95"/>
+    
+    
+    <circle cx="0" cy="0" r="7" fill="#4ADE80" opacity="0.7"/>
+    <circle cx="0" cy="0" r="5" fill="#8B0000" opacity="0.8"/>
+    
+    
+    <g stroke="#F0F8FF" stroke-width="1" fill="none">
+      <path d="M-6,-6 L6,6 M6,-6 L-6,6"/>
+      <circle cx="0" cy="0" r="3"/>
+    </g>
+    
+    
+    
+        <circle cx="7.347880794884119e-16" cy="-12" r="2" fill="#32CD32" opacity="0.8"/>
+        <text x="7.347880794884119e-16" y="-11.5" text-anchor="middle" font-size="2" fill="#FFFFFF">木</text>
+      
+        <circle cx="11.412678195541842" cy="-3.7082039324993685" r="2" fill="#FF6347" opacity="0.8"/>
+        <text x="11.412678195541842" y="-3.2082039324993685" text-anchor="middle" font-size="2" fill="#FFFFFF">火</text>
+      
+        <circle cx="7.053423027509678" cy="9.70820393249937" r="2" fill="#DEB887" opacity="0.8"/>
+        <text x="7.053423027509678" y="10.20820393249937" text-anchor="middle" font-size="2" fill="#FFFFFF">土</text>
+      
+        <circle cx="-7.053423027509677" cy="9.70820393249937" r="2" fill="#FFD700" opacity="0.8"/>
+        <text x="-7.053423027509677" y="10.20820393249937" text-anchor="middle" font-size="2" fill="#FFFFFF">金</text>
+      
+        <circle cx="-11.412678195541842" cy="-3.708203932499373" r="2" fill="#87CEEB" opacity="0.8"/>
+        <text x="-11.412678195541842" y="-3.208203932499373" text-anchor="middle" font-size="2" fill="#FFFFFF">水</text>
+      
+    
+    
+    <text x="0" y="1" text-anchor="middle" font-size="3" fill="#F0F8FF">灵</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B008B"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">90</text>
+
+    </g>
+  </g>
+  <g id="pendant_100">
+    <!-- 64x64 区域，从 (272, 136) 开始 -->
+    <g transform="translate(272, 136)" clip-path="url(#clip272_136)">
+      <clipPath id="clip272_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,35)" >
+    
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#DAA520" stroke-width="1.5" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="16" fill="#4ADE80" opacity="0.95"/>
+    
+    
+    <path d="M0,-16 A16,16 0 0,1 0,16 A8,8 0 0,1 0,0 A8,8 0 0,0 0,-16" fill="#4ADE80"/>
+    
+    
+    <circle cx="0" cy="-8" r="3" fill="#4ADE80" opacity="0.9"/>  
+    <circle cx="0" cy="8" r="3" fill="#4ADE80" opacity="0.9"/>   
+    
+    
+    <circle cx="0" cy="-8" r="1.5" fill="#4ADE80" opacity="0.7"/>
+    <circle cx="0" cy="8" r="1.5" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <text x="1.2246467991473533e-15" y="-18" text-anchor="middle" font-size="4" fill="#8B4513">☰</text><text x="14.142135623730951" y="-12.14213562373095" text-anchor="middle" font-size="4" fill="#8B4513">☱</text><text x="20" y="2" text-anchor="middle" font-size="4" fill="#8B4513">☲</text><text x="14.142135623730951" y="16.14213562373095" text-anchor="middle" font-size="4" fill="#8B4513">☳</text><text x="1.2246467991473533e-15" y="22" text-anchor="middle" font-size="4" fill="#8B4513">☴</text><text x="-14.14213562373095" y="16.14213562373095" text-anchor="middle" font-size="4" fill="#8B4513">☵</text><text x="-20" y="2.0000000000000027" text-anchor="middle" font-size="4" fill="#8B4513">☶</text><text x="-14.142135623730955" y="-12.14213562373095" text-anchor="middle" font-size="4" fill="#8B4513">☷</text>
+    
+    
+    <path d="M0,-16 A16,16 0 0,1 0,16 A8,8 0 0,1 0,0 A8,8 0 0,0 0,-16" 
+          fill="none" stroke="#FFD700" stroke-width="0.5" opacity="0.8"/>
+  </g>
+  
+  
+  <path d="M32 16 Q32 25 32 35" stroke="#DAA520" stroke-width="2" fill="none" opacity="0.8"/>
+  <circle cx="32" cy="16" r="2" fill="#DAA520" opacity="0.9"/>
+  
+  <circle cx="52" cy="12" r="7" fill="#8B4513" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">100</text>
+
+    </g>
+  </g>
+  <g id="pendant_110">
+    <!-- 64x64 区域，从 (340, 136) 开始 -->
+    <g transform="translate(340, 136)" clip-path="url(#clip340_136)">
+      <clipPath id="clip340_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 L32 20" stroke="#4ADE80" stroke-width="2" fill="none" opacity="0.8"/>
+  <circle cx="32" cy="8" r="2" fill="#4ADE80" opacity="0.9"/>
+  
+  
+  <g transform="translate(32,35)" >
+    
+    <path d="M-15,8 Q-18,0 -12,-8 Q0,-12 12,-8 Q18,0 15,8 Q8,12 0,10 Q-8,12 -15,8" 
+          fill="#4ADE80" opacity="0.95"/>
+    
+    
+    <ellipse cx="12" cy="-4" rx="6" ry="4" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <circle cx="14" cy="-5" r="2" fill="#87CEEB" opacity="0.9"/>
+    <circle cx="14" cy="-5" r="1" fill="#FFFFFF"/>
+    <circle cx="14.5" cy="-5.5" r="0.3" fill="#4682B4"/>
+    
+    
+    <path d="M18,-6 Q22,-8 20,-4" stroke="#B0E0E6" stroke-width="0.8" fill="none"/>
+    <path d="M18,-2 Q22,0 20,-4" stroke="#B0E0E6" stroke-width="0.8" fill="none"/>
+    
+    
+    <ellipse cx="-12" cy="-6" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="-6" cy="-6" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="0" cy="-6" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="6" cy="-6" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="-12" cy="-2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="-6" cy="-2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="0" cy="-2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="6" cy="-2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="-12" cy="2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="-6" cy="2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="0" cy="2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/><ellipse cx="6" cy="2" rx="1.5" ry="1" fill="#E0FFFF" opacity="0.6"/>
+    
+    
+    <path d="M15,6 Q18,10 15,12 Q12,14 10,12" 
+          stroke="#4ADE80" stroke-width="2" fill="none"/>
+    <path d="M10,12 Q8,14 6,12" 
+          stroke="#4ADE80" stroke-width="1.5" fill="none"/>
+    
+    
+    <circle cx="0" cy="0" r="20" fill="none" stroke="#E0FFFF" stroke-width="0.5" opacity="0.4"/>
+    <circle cx="0" cy="0" r="17" fill="none" stroke="#AFEEEE" stroke-width="0.3" opacity="0.3"/>
+    
+    
+    <text x="-8" y="0" font-size="3" fill="#4682B4" opacity="0.8">冰</text>
+    <text x="0" y="-6" font-size="2.5" fill="#4682B4" opacity="0.7">龙</text>
+    <text x="6" y="2" font-size="2.5" fill="#4682B4" opacity="0.7">魂</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#4682B4" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">110</text>
+
+    </g>
+  </g>
+  <g id="pendant_120">
+    <!-- 64x64 区域，从 (408, 136) 开始 -->
+    <g transform="translate(408, 136)" clip-path="url(#clip408_136)">
+      <clipPath id="clip408_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="21" 
+            fill="none" 
+            stroke="#FF6347" 
+            stroke-width="1.5" 
+            opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="13" 
+            fill="#90EE90" 
+            opacity="0.95"/>
+    
+    
+    <path d="M0,-13 A13,13 0 0,1 0,13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,-13" 
+          fill="#DA70D6" 
+          opacity="0.8"/>
+    <path d="M0,13 A13,13 0 0,1 0,-13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,13" 
+          fill="#F0E68C" 
+          opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="-6.5" r="2.5" fill="#F0E68C" opacity="0.9"/>
+    <circle cx="0" cy="6.5" r="2.5" fill="#DA70D6" opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="0" r="1.5" fill="#DEB887" opacity="0.8"/>
+    
+    
+    
+      <g transform="rotate(0)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(45)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(90)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(135)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(180)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(225)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(270)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(315)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#FF6347" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">120</text>
+        
+  
+  <ellipse cx="23.470653855105027" cy="56.56207492888131" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="30.61883194832817" cy="57.03036841235791" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="36.092283849647615" cy="52.48533598555608" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="44.94752333828524" cy="50.74709739087705" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/>
+  
+
+    </g>
+  </g>
+  <g id="pendant_130">
+    <!-- 64x64 区域，从 (476, 136) 开始 -->
+    <g transform="translate(476, 136)" clip-path="url(#clip476_136)">
+      <clipPath id="clip476_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="21" 
+            fill="none" 
+            stroke="#FF6347" 
+            stroke-width="1.5" 
+            opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="13" 
+            fill="#90EE90" 
+            opacity="0.95"/>
+    
+    
+    <path d="M0,-13 A13,13 0 0,1 0,13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,-13" 
+          fill="#DA70D6" 
+          opacity="0.8"/>
+    <path d="M0,13 A13,13 0 0,1 0,-13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,13" 
+          fill="#F0E68C" 
+          opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="-6.5" r="2.5" fill="#F0E68C" opacity="0.9"/>
+    <circle cx="0" cy="6.5" r="2.5" fill="#DA70D6" opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="0" r="1.5" fill="#DEB887" opacity="0.8"/>
+    
+    
+    
+      <g transform="rotate(0)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(45)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(90)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(135)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(180)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(225)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(270)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(315)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#FF6347" 
+              opacity="0.6"/>
+      </g>
+    
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#FF6347" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">130</text>
+        
+  
+  <ellipse cx="23.516673465006306" cy="53.21436458880619" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="31.913126226033164" cy="57.64253464392558" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="38.716163939175495" cy="53.41932793032967" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/><ellipse cx="46.927626840543766" cy="56.23712736979323" rx="1" ry="1.5" fill="#DEB887" opacity="0.6"/>
+  
+
+    </g>
+  </g>
+  <g id="pendant_140">
+    <!-- 64x64 区域，从 (544, 136) 开始 -->
+    <g transform="translate(544, 136)" clip-path="url(#clip544_136)">
+      <clipPath id="clip544_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q32 15 32 22" stroke="#4ADE80" stroke-width="2.5" fill="none"/>
+  <circle cx="32" cy="8" r="2.5" fill="#4ADE80"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <circle cx="0" cy="0" r="18" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.8"/>
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#4ADE80" stroke-width="2" opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="-6" r="10" fill="#4ADE80" opacity="0.85"/>
+    
+    
+    <rect x="-10" y="2" width="20" height="12" rx="2" fill="#4ADE80" opacity="0.85"/>
+    
+    
+    <g transform="translate(0,-6)">
+      <rect x="-6" y="-2" width="12" height="1" fill="#FFFFFF"/>
+      <rect x="-6" y="0" width="12" height="1" fill="#FFFFFF"/>
+      <rect x="-6" y="2" width="12" height="1" fill="#FFFFFF"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="3" fill="#FFFFFF">☰</text>
+    </g>
+    
+    
+    <g transform="translate(0,8)">
+      <rect x="-6" y="-2" width="5" height="1" fill="#FFD700"/>
+      <rect x="1" y="-2" width="5" height="1" fill="#FFD700"/>
+      <rect x="-6" y="0" width="5" height="1" fill="#FFD700"/>
+      <rect x="1" y="0" width="5" height="1" fill="#FFD700"/>
+      <rect x="-6" y="2" width="5" height="1" fill="#FFD700"/>
+      <rect x="1" y="2" width="5" height="1" fill="#FFD700"/>
+      <text x="0" y="-5" text-anchor="middle" font-size="3" fill="#FFD700">☷</text>
+    </g>
+    
+    
+    <circle cx="0" cy="1" r="4" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+    <circle cx="0" cy="1" r="2" fill="#FFE4B5" opacity="0.9"/>
+    
+    
+    
+      <text x="12" y="-10" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☳</text>
+    
+      <text x="12" y="0" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☲</text>
+    
+      <text x="12" y="12" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☱</text>
+    
+      <text x="-12" y="-10" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☴</text>
+    
+      <text x="-12" y="0" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☵</text>
+    
+      <text x="-12" y="12" text-anchor="middle" 
+            font-size="2.5" fill="#DAA520">☶</text>
+    
+  </g>
+  
+  <circle cx="52" cy="12" r="7" fill="#B8860B" opacity="0.9"/>
+  <text x="52" y="15" text-anchor="middle" font-family="serif" font-size="4" fill="#FFFFFF">140</text>
+
+    </g>
+  </g>
+  <g id="pendant_150">
+    <!-- 64x64 区域，从 (612, 136) 开始 -->
+    <g transform="translate(612, 136)" clip-path="url(#clip612_136)">
+      <clipPath id="clip612_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <g transform="translate(32,32)" >
+    
+    <circle cx="0" cy="0" r="21" 
+            fill="none" 
+            stroke="#CD853F" 
+            stroke-width="1.5" 
+            opacity="0.8"/>
+    
+    
+    <circle cx="0" cy="0" r="13" 
+            fill="#90EE90" 
+            opacity="0.95"/>
+    
+    
+    <path d="M0,-13 A13,13 0 0,1 0,13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,-13" 
+          fill="#FF1493" 
+          opacity="0.8"/>
+    <path d="M0,13 A13,13 0 0,1 0,-13 A6.5,6.5 0 0,1 0,0 A6.5,6.5 0 0,0 0,13" 
+          fill="#FFFAF0" 
+          opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="-6.5" r="2.5" fill="#FFFAF0" opacity="0.9"/>
+    <circle cx="0" cy="6.5" r="2.5" fill="#FF1493" opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="0" r="1.5" fill="#F5DEB3" opacity="0.8"/>
+    
+    
+    
+      <g transform="rotate(0)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(45)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(90)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(135)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(180)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(225)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(270)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+      <g transform="rotate(315)">
+        <rect x="14" y="-0.5" width="2" height="1" 
+              fill="#CD853F" 
+              opacity="0.6"/>
+      </g>
+    
+  </g>
+  
+  
+  <circle cx="52" cy="12" r="6" 
+          fill="#CD853F" 
+          opacity="0.9"/>
+  <text x="52" y="14" text-anchor="middle" 
+        font-family="serif" 
+        font-size="4" 
+        fill="#FFFFFF">150</text>
+        
+  
+  <ellipse cx="20.862626459314896" cy="57.449914815251056" rx="1" ry="1.5" fill="#F5DEB3" opacity="0.6"/><ellipse cx="31.544125190953558" cy="57.70338056314086" rx="1" ry="1.5" fill="#F5DEB3" opacity="0.6"/><ellipse cx="36.887981497714456" cy="53.9454018476897" rx="1" ry="1.5" fill="#F5DEB3" opacity="0.6"/><ellipse cx="45.01719666934447" cy="57.37484534329084" rx="1" ry="1.5" fill="#F5DEB3" opacity="0.6"/>
+  
+
+    </g>
+  </g>
+  <g id="pendant_20">
+    <!-- 64x64 区域，从 (680, 136) 开始 -->
+    <g transform="translate(680, 136)" clip-path="url(#clip680_136)">
+      <clipPath id="clip680_136">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 12 L32 22" stroke="#D2B48C" stroke-width="2"/>
+  <circle cx="32" cy="12" r="1.5" fill="#A0522D"/>
+  
+  
+  <g transform="translate(32,38)">
+    
+    <rect x="-10" y="-8" width="20" height="16" rx="3" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M-8,-4 Q-4,-6 0,-4 Q4,-6 8,-4" stroke="#8B4513" stroke-width="1" fill="none"/>
+    <path d="M-6,-2 Q0,0 6,-2" stroke="#8B4513" stroke-width="1" fill="none"/>
+    <path d="M-8,2 Q-4,4 0,2 Q4,4 8,2" stroke="#8B4513" stroke-width="1" fill="none"/>
+    
+    
+    <circle cx="-4" cy="-3" r="1" fill="#A0522D"/>
+    <circle cx="4" cy="-3" r="1" fill="#A0522D"/>
+    
+    
+    <path d="M-8,-5 Q-10,-4 -9,-2" stroke="#8B4513" stroke-width="0.5" fill="none"/>
+    <path d="M8,-5 Q10,-4 9,-2" stroke="#8B4513" stroke-width="0.5" fill="none"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#A0522D"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">20</text>
+
+    </g>
+  </g>
+  <g id="pendant_35">
+    <!-- 64x64 区域，从 (0, 204) 开始 -->
+    <g transform="translate(0, 204)" clip-path="url(#clip0_204)">
+      <clipPath id="clip0_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 10 L32 20" stroke="#DAA520" stroke-width="1.5"/>
+  
+  
+  <g transform="translate(32,35)">
+    
+    <circle cx="0" cy="0" r="12" fill="#4ADE80" opacity="0.9"/>
+    <circle cx="0" cy="0" r="8" fill="none"/>
+    
+    
+    <rect x="8" y="-2" width="4" height="4" fill="#FFFFFF"/>
+    
+    
+    <circle cx="0" cy="0" r="10" fill="none" stroke="#F0E68C" stroke-width="0.5" opacity="0.7"/>
+    <circle cx="0" cy="0" r="6" fill="none" stroke="#F0E68C" stroke-width="0.3" opacity="0.6"/>
+    
+    
+    <path d="M-6,-3 Q-3,-5 0,-3 Q3,-5 6,-3" stroke="#DAA520" stroke-width="0.8" fill="none"/>
+    <path d="M-4,3 Q0,1 4,3" stroke="#DAA520" stroke-width="0.8" fill="none"/>
+    
+    
+    <ellipse cx="-3" cy="-2" rx="2" ry="3" fill="#FFFFF0" opacity="0.5"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#DAA520"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">35</text>
+
+    </g>
+  </g>
+  <g id="pendant_50">
+    <!-- 64x64 区域，从 (68, 204) 开始 -->
+    <g transform="translate(68, 204)" clip-path="url(#clip68_204)">
+      <clipPath id="clip68_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q32 15 32 22" stroke="#DC143C" stroke-width="2"/>
+  <circle cx="32" cy="8" r="2" fill="#8B0000"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <path d="M0,-6 C-6,-12 -18,-6 -12,0 L0,12 L12,0 C18,-6 6,-12 0,-6" 
+          fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M0,-4 C-4,-8 -12,-4 -8,0 L0,8 L8,0 C12,-4 4,-8 0,-4" 
+          fill="#FF69B4" opacity="0.7"/>
+    
+    
+    <path d="M-6,-2 Q0,0 6,-2" stroke="#8B0000" stroke-width="0.8" fill="none"/>
+    <path d="M-4,2 Q0,4 4,2" stroke="#8B0000" stroke-width="0.6" fill="none"/>
+    
+    
+    <circle cx="-3" cy="-1" r="1" fill="#FF69B4" opacity="0.8"/>
+    <circle cx="3" cy="1" r="0.8" fill="#FF69B4" opacity="0.8"/>
+    <circle cx="0" cy="3" r="0.6" fill="#FF1493" opacity="0.9"/>
+    
+    
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#DC143C" stroke-width="0.3" opacity="0.4"/>
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#FF69B4" stroke-width="0.2" opacity="0.3"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B0000"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">50</text>
+
+    </g>
+  </g>
+  <g id="pendant_60">
+    <!-- 64x64 区域，从 (136, 204) 开始 -->
+    <g transform="translate(136, 204)" clip-path="url(#clip136_204)">
+      <clipPath id="clip136_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q32 16 32 24" stroke="#B0C4DE" stroke-width="2"/>
+  <circle cx="32" cy="8" r="2" fill="#B0C4DE"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <path d="M0,-12 L8.5,-8.5 L12,0 L8.5,8.5 L0,12 L-8.5,8.5 L-12,0 L-8.5,-8.5 Z" 
+          fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M0,-8 L6,-6 L8,0 L6,6 L0,8 L-6,6 L-8,0 L-6,-6 Z" 
+          fill="#F0F8FF" opacity="0.7"/>
+    
+    
+    <text x="5.51091059616309e-16" y="-8" text-anchor="middle" font-size="2.5" fill="#4682B4">☰</text><text x="6.3639610306789285" y="-5.363961030678928" text-anchor="middle" font-size="2.5" fill="#4682B4">☱</text><text x="9" y="1" text-anchor="middle" font-size="2.5" fill="#4682B4">☲</text><text x="6.3639610306789285" y="7.363961030678928" text-anchor="middle" font-size="2.5" fill="#4682B4">☳</text><text x="5.51091059616309e-16" y="10" text-anchor="middle" font-size="2.5" fill="#4682B4">☴</text><text x="-6.363961030678928" y="7.3639610306789285" text-anchor="middle" font-size="2.5" fill="#4682B4">☵</text><text x="-9" y="1.000000000000001" text-anchor="middle" font-size="2.5" fill="#4682B4">☶</text><text x="-6.363961030678929" y="-5.363961030678928" text-anchor="middle" font-size="2.5" fill="#4682B4">☷</text>
+    
+    
+    <circle cx="0" cy="0" r="4" fill="#B0C4DE" opacity="0.8"/>
+    <path d="M0,-4 A4,4 0 0,1 0,4 A2,2 0 0,1 0,0 A2,2 0 0,0 0,-4" fill="#4682B4" opacity="0.7"/>
+    <circle cx="0" cy="-2" r="1" fill="#F0F8FF"/>
+    <circle cx="0" cy="2" r="1" fill="#4682B4"/>
+    
+    
+    <path d="M-8.5,-8.5 L8.5,8.5 M8.5,-8.5 L-8.5,8.5" stroke="#E0E6FF" stroke-width="0.3" opacity="0.6"/>
+    <path d="M0,-12 L0,12 M-12,0 L12,0" stroke="#E0E6FF" stroke-width="0.3" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#4682B4"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">60</text>
+
+    </g>
+  </g>
+  <g id="pendant_70">
+    <!-- 64x64 区域，从 (204, 204) 开始 -->
+    <g transform="translate(204, 204)" clip-path="url(#clip204_204)">
+      <clipPath id="clip204_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q30 15 32 22 Q34 15 32 8" stroke="#D2B48C" stroke-width="2.5" fill="none"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <ellipse cx="0" cy="0" rx="12" ry="8" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <path d="M-8,-4 Q-12,0 -8,4 Q0,6 8,4 Q12,0 8,-4 Q0,-6 -8,-4" 
+          stroke="#8B7355" stroke-width="2" fill="none"/>
+    
+    
+    <g transform="translate(8,-2)">
+      <ellipse cx="0" cy="0" rx="3" ry="2" fill="#8B7355"/>
+      <circle cx="1" cy="-0.5" r="0.5" fill="#654321"/>
+      <path d="M2,0 Q4,0 3,1" stroke="#654321" stroke-width="0.5" fill="none"/>
+    </g>
+    
+    
+    <g transform="translate(-6,2)">
+      <path d="M0,0 Q-2,2 -1,3" stroke="#8B7355" stroke-width="1" fill="none"/>
+      <path d="M0,0 Q-3,1 -2,3" stroke="#8B7355" stroke-width="0.8" fill="none"/>
+    </g>
+    
+    
+    <ellipse cx="6" cy="0" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="6.49519052838329" cy="2.2499999999999996" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="4.500000000000001" cy="4.676537180435968" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="3.6739403974420594e-16" cy="3.5999999999999996" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-3.7499999999999982" cy="3.897114317029974" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-7.794228634059948" cy="2.6999999999999993" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-6" cy="4.408728476930471e-16" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-6.495190528383289" cy="-2.2500000000000004" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-4.5000000000000036" cy="-4.676537180435967" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="-1.102182119232618e-15" cy="-3.5999999999999996" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="3.750000000000001" cy="-3.897114317029973" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/><ellipse cx="7.794228634059945" cy="-2.700000000000002" rx="1" ry="0.6" fill="#D2B48C" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="3" fill="none" stroke="#8B7355" stroke-width="1"/>
+    <circle cx="0" cy="0" r="1.5" fill="#F5DEB3" opacity="0.8"/>
+    
+    
+    <text x="0" y="1" text-anchor="middle" font-size="2.5" fill="#654321">螭</text>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B7355"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">70</text>
+
+    </g>
+  </g>
+  <g id="pendant_80">
+    <!-- 64x64 区域，从 (272, 204) 开始 -->
+    <g transform="translate(272, 204)" clip-path="url(#clip272_204)">
+      <clipPath id="clip272_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q30 16 32 24" stroke="#DEB887" stroke-width="2.5"/>
+  <circle cx="32" cy="8" r="2.5" fill="#8B7355"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <circle cx="0" cy="0" r="6" fill="#4ADE80" opacity="0.95"/>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF" opacity="0.7"/>
+    <text x="0" y="1" text-anchor="middle" font-size="3" fill="#8B7355">龙</text>
+    
+    
+    
+        <circle cx="6.123233995736766e-16" cy="-10" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="6.123233995736766e-16" cy="-10" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="6.123233995736766e-16" y="-9.5" text-anchor="middle" font-size="2" fill="#8B7355">★</text>
+      
+        <circle cx="8.660254037844387" cy="-4.999999999999999" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="8.660254037844387" cy="-4.999999999999999" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="8.660254037844387" y="-4.499999999999999" text-anchor="middle" font-size="2" fill="#8B7355">☆</text>
+      
+        <circle cx="8.660254037844387" cy="4.999999999999999" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="8.660254037844387" cy="4.999999999999999" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="8.660254037844387" y="5.499999999999999" text-anchor="middle" font-size="2" fill="#8B7355">✦</text>
+      
+        <circle cx="6.123233995736766e-16" cy="10" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="6.123233995736766e-16" cy="10" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="6.123233995736766e-16" y="10.5" text-anchor="middle" font-size="2" fill="#8B7355">✧</text>
+      
+        <circle cx="-8.660254037844387" cy="4.999999999999999" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-8.660254037844387" cy="4.999999999999999" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="-8.660254037844387" y="5.499999999999999" text-anchor="middle" font-size="2" fill="#8B7355">✩</text>
+      
+        <circle cx="-8.660254037844386" cy="-5.000000000000001" r="3.5" fill="#4ADE80" opacity="0.9"/>
+        <circle cx="-8.660254037844386" cy="-5.000000000000001" r="2.5" fill="#FFE4B5" opacity="0.8"/>
+        <text x="-8.660254037844386" y="-4.500000000000001" text-anchor="middle" font-size="2" fill="#8B7355">✪</text>
+      
+    
+    
+    <line x1="3.6739403974420594e-16" y1="-6" x2="6.123233995736766e-16" y2="-10" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/><line x1="5.196152422706632" y1="-2.9999999999999996" x2="8.660254037844387" y2="-4.999999999999999" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/><line x1="5.196152422706632" y1="2.9999999999999996" x2="8.660254037844387" y2="4.999999999999999" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/><line x1="3.6739403974420594e-16" y1="6" x2="6.123233995736766e-16" y2="10" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/><line x1="-5.196152422706632" y1="2.9999999999999996" x2="-8.660254037844387" y2="4.999999999999999" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/><line x1="-5.196152422706632" y1="-3.000000000000001" x2="-8.660254037844386" y2="-5.000000000000001" stroke="#DEB887" stroke-width="0.8" opacity="0.7"/>
+    
+    
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#FFE4B5" stroke-width="0.5" opacity="0.6"/>
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#DEB887" stroke-width="0.3" opacity="0.5"/>
+    
+    
+    <path d="M-12,0 Q-8,-4 -4,0 Q0,-4 4,0 Q8,-4 12,0" stroke="#8B7355" stroke-width="0.8" fill="none" opacity="0.6"/>
+    <path d="M-12,0 Q-8,4 -4,0 Q0,4 4,0 Q8,4 12,0" stroke="#8B7355" stroke-width="0.8" fill="none" opacity="0.6"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#8B7355"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">80</text>
+
+    </g>
+  </g>
+  <g id="pendant_90">
+    <!-- 64x64 区域，从 (340, 204) 开始 -->
+    <g transform="translate(340, 204)" clip-path="url(#clip340_204)">
+      <clipPath id="clip340_204">
+        <rect x="0" y="0" width="64" height="64"/>
+      </clipPath>
+
+  
+  
+  
+  <path d="M32 8 Q30 16 32 24 Q34 16 32 8" stroke="#B8860B" stroke-width="2.5" fill="none"/>
+  <circle cx="32" cy="8" r="2.5" fill="#FFD700"/>
+  
+  
+  <g transform="translate(32,40)" >
+    
+    <path d="M-10,-8 Q-12,0 -8,8 L8,8 Q12,0 10,-8 Z" fill="#4ADE80" opacity="0.9"/>
+    
+    
+    <g transform="translate(0,-4)">
+      
+      <ellipse cx="0" cy="0" rx="6" ry="4" fill="#FFD700" opacity="0.95"/>
+      
+      
+      <ellipse cx="0" cy="-2" rx="3" ry="2" fill="#FFD700"/>
+      
+      
+      <circle cx="-1.5" cy="-2.5" r="0.8" fill="#8B0000" opacity="0.8"/>
+      <circle cx="1.5" cy="-2.5" r="0.8" fill="#8B0000" opacity="0.8"/>
+      <circle cx="-1.5" cy="-2.5" r="0.4" fill="#FF6347"/>
+      <circle cx="1.5" cy="-2.5" r="0.4" fill="#FF6347"/>
+      
+      
+      <ellipse cx="-4" cy="-1" rx="2" ry="3" fill="#FFFFFF" opacity="0.6"/>
+      <ellipse cx="4" cy="-1" rx="2" ry="3" fill="#FFFFFF" opacity="0.6"/>
+      
+      
+      <path d="M-5,-2 Q-4,-1 -5,0 Q-4,1 -5,2" stroke="#FFD700" stroke-width="0.3" fill="none"/>
+      <path d="M5,-2 Q4,-1 5,0 Q4,1 5,2" stroke="#FFD700" stroke-width="0.3" fill="none"/>
+      
+      
+      <path d="M-3,1 Q-5,3 -4,4" stroke="#B8860B" stroke-width="0.8" fill="none"/>
+      <path d="M0,2 Q-1,4 0,5" stroke="#B8860B" stroke-width="0.8" fill="none"/>
+      <path d="M3,1 Q5,3 4,4" stroke="#B8860B" stroke-width="0.8" fill="none"/>
+    </g>
+    
+    
+    <ellipse cx="0" cy="-8" rx="8" ry="2" fill="#FFD700" opacity="0.8"/>
+    <ellipse cx="0" cy="-8" rx="6" ry="1.5" fill="#8B0000" opacity="0.7"/>
+    
+    
+    <path d="M-6,-8 Q0,-6 6,-8" stroke="#B8860B" stroke-width="1.5" fill="none"/>
+    
+    
+    <circle cx="2.4492935982947064e-16" cy="-12" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="2.8284271247461903" cy="-10.82842712474619" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="4" cy="-8" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="2.8284271247461903" cy="-5.17157287525381" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="2.4492935982947064e-16" cy="-4" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="-2.82842712474619" cy="-5.17157287525381" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="-4" cy="-7.999999999999999" r="0.5" fill="#FFFACD" opacity="0.8"/><circle cx="-2.8284271247461907" cy="-10.82842712474619" r="0.5" fill="#FFFACD" opacity="0.8"/>
+    
+    
+    <path d="M-8,4 Q0,6 8,4" stroke="#FFD700" stroke-width="0.8" fill="none" opacity="0.7"/>
+    <path d="M-6,6 Q0,7 6,6" stroke="#FFD700" stroke-width="0.6" fill="none" opacity="0.6"/>
+    
+    
+    <circle cx="0" cy="0" r="14" fill="none" stroke="#FFE4E1" stroke-width="0.5" opacity="0.5"/>
+    <circle cx="0" cy="0" r="16" fill="none" stroke="#DDA0DD" stroke-width="0.3" opacity="0.4"/>
+  </g>
+  
+  <circle cx="52" cy="12" r="6" fill="#B8860B"/>
+  <text x="52" y="15" text-anchor="middle" font-size="4" fill="#FFFFFF">90</text>
+
+    </g>
+  </g>
+</svg>

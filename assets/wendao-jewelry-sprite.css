@@ -1,0 +1,171 @@
+/* 问道手游正确位置雪碧图 */
+.wendao-jewelry-svg {
+  background-image: url('wendao-jewelry-sprite.svg');
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  background-size: 744px 268px;
+}
+
+.wendao-jewelry-svg:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s ease;
+}
+
+.wendao-jewelry-bracelet_100 {
+  background-position: -0px -0px;
+}
+
+.wendao-jewelry-bracelet_110 {
+  background-position: -68px -0px;
+}
+
+.wendao-jewelry-bracelet_120 {
+  background-position: -136px -0px;
+}
+
+.wendao-jewelry-bracelet_130 {
+  background-position: -204px -0px;
+}
+
+.wendao-jewelry-bracelet_140 {
+  background-position: -272px -0px;
+}
+
+.wendao-jewelry-bracelet_150 {
+  background-position: -340px -0px;
+}
+
+.wendao-jewelry-bracelet_20 {
+  background-position: -408px -0px;
+}
+
+.wendao-jewelry-bracelet_35 {
+  background-position: -476px -0px;
+}
+
+.wendao-jewelry-bracelet_50 {
+  background-position: -544px -0px;
+}
+
+.wendao-jewelry-bracelet_60 {
+  background-position: -612px -0px;
+}
+
+.wendao-jewelry-bracelet_70 {
+  background-position: -680px -0px;
+}
+
+.wendao-jewelry-bracelet_80 {
+  background-position: -0px -68px;
+}
+
+.wendao-jewelry-bracelet_90 {
+  background-position: -68px -68px;
+}
+
+.wendao-jewelry-necklace_100 {
+  background-position: -136px -68px;
+}
+
+.wendao-jewelry-necklace_110 {
+  background-position: -204px -68px;
+}
+
+.wendao-jewelry-necklace_120 {
+  background-position: -272px -68px;
+}
+
+.wendao-jewelry-necklace_130 {
+  background-position: -340px -68px;
+}
+
+.wendao-jewelry-necklace_140 {
+  background-position: -408px -68px;
+}
+
+.wendao-jewelry-necklace_150 {
+  background-position: -476px -68px;
+}
+
+.wendao-jewelry-necklace_20 {
+  background-position: -544px -68px;
+}
+
+.wendao-jewelry-necklace_35 {
+  background-position: -612px -68px;
+}
+
+.wendao-jewelry-necklace_50 {
+  background-position: -680px -68px;
+}
+
+.wendao-jewelry-necklace_60 {
+  background-position: -0px -136px;
+}
+
+.wendao-jewelry-necklace_70 {
+  background-position: -68px -136px;
+}
+
+.wendao-jewelry-necklace_80 {
+  background-position: -136px -136px;
+}
+
+.wendao-jewelry-necklace_90 {
+  background-position: -204px -136px;
+}
+
+.wendao-jewelry-pendant_100 {
+  background-position: -272px -136px;
+}
+
+.wendao-jewelry-pendant_110 {
+  background-position: -340px -136px;
+}
+
+.wendao-jewelry-pendant_120 {
+  background-position: -408px -136px;
+}
+
+.wendao-jewelry-pendant_130 {
+  background-position: -476px -136px;
+}
+
+.wendao-jewelry-pendant_140 {
+  background-position: -544px -136px;
+}
+
+.wendao-jewelry-pendant_150 {
+  background-position: -612px -136px;
+}
+
+.wendao-jewelry-pendant_20 {
+  background-position: -680px -136px;
+}
+
+.wendao-jewelry-pendant_35 {
+  background-position: -0px -204px;
+}
+
+.wendao-jewelry-pendant_50 {
+  background-position: -68px -204px;
+}
+
+.wendao-jewelry-pendant_60 {
+  background-position: -136px -204px;
+}
+
+.wendao-jewelry-pendant_70 {
+  background-position: -204px -204px;
+}
+
+.wendao-jewelry-pendant_80 {
+  background-position: -272px -204px;
+}
+
+.wendao-jewelry-pendant_90 {
+  background-position: -340px -204px;
+}
+
